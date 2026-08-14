@@ -93,7 +93,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26368
+            "stars": 26366
           }
         },
         {
@@ -107,7 +107,7 @@
             "last_commit": "2021-08-22T01:51:36Z",
             "owner": "mahyarnajibi",
             "repo": "SSH",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2026-07-27T03:22:16Z",
             "owner": "deepinsight",
             "repo": "insightface",
-            "stars": 29491
+            "stars": 29497
           }
         },
         {
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:52:25.968Z",
+    "last_updated": "2026-08-14T23:29:54.264Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
     "enhanced_repository": "enhansome/enhansome-Face_Recognition",
