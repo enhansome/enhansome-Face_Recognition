@@ -1,502 +1,461 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【Multiview Face Detection】Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .Multi-view Face Detection Using Deep Convolutional Neural Networks",
+              "description": ".[J] arXiv preprint arXiv:1502.02766.[code: guoyilin/FaceDetection_CNN]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35920816,
+                "language": "Python",
+                "last_commit": "2021-08-31T10:51:17Z",
+                "owner": "guoyilin",
+                "repo": "FaceDetection_CNN",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【Cascade】Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection",
+              "description": "[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5325-5334.[code:anson0910/CNN_face_detection]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45181511,
+                "language": "Python",
+                "last_commit": "2017-10-14T04:02:45Z",
+                "owner": "anson0910",
+                "repo": "CNN_face_detection",
+                "stars": 255
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2015"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【MTCNN】Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks",
+              "description": ".[J] arXiv preprint arXiv:1604.02878.[code;kpzhang93/MTCNN_face_detection_alignment]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69148037,
+                "language": "MATLAB",
+                "last_commit": "2022-10-11T07:35:47Z",
+                "owner": "kpzhang93",
+                "repo": "MTCNN_face_detection_alignment",
+                "stars": 2862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【HR】Peiyun Hu, Deva Ramanan .Finding Tiny Faces",
+              "description": ".[J] arXiv preprint arXiv:1612.04402.[code: peiyunh/tiny]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76074780,
+                "language": "MATLAB",
+                "last_commit": "2020-03-21T02:04:30Z",
+                "owner": "peiyunh",
+                "repo": "tiny",
+                "stars": 1143
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【Focal loss】Lin T Y, Goyal P, Girshick R, et al. Focal loss for dense object detection",
+              "description": "[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.[code:facebookresearch/Detectron]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 105919803,
+                "language": "Python",
+                "last_commit": "2023-11-20T09:13:34Z",
+                "owner": "facebookresearch",
+                "repo": "Detectron",
+                "stars": 26363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .SSH: Single Stage Headless Face Detector",
+              "description": ".[J] arXiv preprint arXiv:1708.03979.[code:mahyarnajibi/SSH]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104791940,
+                "language": "Python",
+                "last_commit": "2021-08-22T01:51:36Z",
+                "owner": "mahyarnajibi",
+                "repo": "SSH",
+                "stars": 841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【FaceBoxes】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .FaceBoxes: A CPU Real-time Face Detector with High Accuracy",
+              "description": ".[J] arXiv preprint arXiv:1708.05234.[code:sfzhang15/FaceBoxes;zeusees/FaceBoxes]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163039259,
+                "language": "C++",
+                "last_commit": "2019-04-16T06:09:34Z",
+                "owner": "sfzhang15",
+                "repo": "FaceBoxes",
+                "stars": 592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【S^3FD】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .S^3FD: Single Shot Scale-invariant Face Detector",
+              "description": ".[J] arXiv preprint arXiv:1708.05237.[code:sfzhang15/SFD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100566523,
+                "language": "Matlab",
+                "last_commit": "2018-10-17T15:02:16Z",
+                "owner": "sfzhang15",
+                "repo": "SFD",
+                "stars": 522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nataniel Ruiz, James M. Rehg .Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a Docker Container",
+              "description": ".[J] arXiv preprint arXiv:1708.04370.[code:natanielruiz/dockerface]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93452501,
+                "language": "Dockerfile",
+                "last_commit": "2020-06-20T10:56:56Z",
+                "owner": "natanielruiz",
+                "repo": "dockerface",
+                "stars": 191
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【PyramidBox】Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .PyramidBox: A Context-assisted Single Shot Face Detector",
+              "description": ".[J] arXiv preprint arXiv:1803.07737.[code:PaddlePaddle/face_detection]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88868842,
+                "language": "Python",
+                "last_commit": "2025-01-15T17:54:36Z",
+                "owner": "PaddlePaddle",
+                "repo": "models",
+                "stars": 6933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen .Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks",
+              "description": ".[J] arXiv preprint arXiv:1804.06039.[code:Jack-CV/FaceKit]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129835799,
+                "language": "C++",
+                "last_commit": "2023-05-11T12:29:37Z",
+                "owner": "Rock-100",
+                "repo": "FaceKit",
+                "stars": 1083
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Saurav Jha, Nikhil Agarwal, Suneeta Agarwal .Towards Improved Cartoon Face Detection and Recognition Systems",
+              "description": ".[J] arXiv preprint arXiv:1804.01753.[code url in paper:nagadomi/animeface-2009; kaggle/facial-keypoints-detection]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82335980,
+                "language": "C",
+                "last_commit": "2018-07-25T06:58:14Z",
+                "owner": "nagadomi",
+                "repo": "animeface-2009",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis .Two-Stream Neural Networks for Tampered Face Detection",
+              "description": ".[J] arXiv preprint arXiv:1803.11276.[code url in paper:MKLab-ITI/image-forensics; MarekKowalski/FaceSwap]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49573673,
+                "language": "Java",
+                "last_commit": "2019-06-26T09:35:47Z",
+                "owner": "MKLab-ITI",
+                "repo": "image-forensics",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille .Robust Face Detection via Learning Small Faces on Hard Images",
+              "description": ".[J] arXiv preprint arXiv:1811.11662.[code:bairdzhang/smallhardface]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159528107,
+                "language": "C++",
+                "last_commit": "2020-08-04T20:42:25Z",
+                "owner": "bairdzhang",
+                "repo": "smallhardface",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa.Face-MagNet: Magnifying Feature Maps to Detect Small Faces",
+              "description": ".[J] arXiv preprint arXiv:1803.05258.[code:po0ya/face-magnet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116995137,
+                "language": "Python",
+                "last_commit": "2018-07-18T13:34:43Z",
+                "owner": "po0ya",
+                "repo": "face-magnet",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【DSFD】Jian Li, Yabiao Wang, Changan Wang, Ying Tai, Jianjun Qian, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang .DSFD: Dual Shot Face Detector",
+              "description": ".[J] arXiv preprint arXiv:1810.10220.[code:TencentYoutuResearch/FaceDetection-DSFD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271434424,
+                "language": null,
+                "last_commit": "2020-06-11T02:38:35Z",
+                "owner": "TencentYoutuResearch",
+                "repo": "FaceDetection-DSFD",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018"
+        }
+      ],
       "title": "Face Detection && Face Segmentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "【Multiview Face Detection】Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .Multi-view Face Detection Using Deep Convolutional Neural Networks",
-          "description": ".[J] arXiv preprint arXiv:1502.02766.[code: guoyilin/FaceDetection_CNN]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-08-31T10:51:17Z",
-            "owner": "guoyilin",
-            "repo": "FaceDetection_CNN",
-            "stars": 328
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. A discriminative feature learning approach for deep face recognition",
+              "description": "[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515. [code:ydwen/caffe-face; pangyupo/mxnet_center_loss]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70420335,
+                "language": "C++",
+                "last_commit": "2018-06-04T10:37:07Z",
+                "owner": "ydwen",
+                "repo": "caffe-face",
+                "stars": 1210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. Large-Margin Softmax Loss for Convolutional Neural Networks",
+              "description": "[J]arXiv preprint arXiv:1612.02295..[code:wy1iu/LargeMargin_Softmax_Loss;luoyetx/mx-lsoftmax]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74855663,
+                "language": "C++",
+                "last_commit": "2018-08-27T01:58:39Z",
+                "owner": "wy1iu",
+                "repo": "LargeMargin_Softmax_Loss",
+                "stars": 353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【Range loss】Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .Range Loss for Deep Face Recognition with Long-tail",
+              "description": ".[J] arXiv preprint arXiv:1611.08976.[code: Charrin/RangeLoss-Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99665713,
+                "language": "C++",
+                "last_commit": "2017-08-09T07:12:24Z",
+                "owner": "Charrin",
+                "repo": "RangeLoss-Caffe",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016"
         },
         {
-          "node_type": "item",
-          "title": "【Cascade】Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection",
-          "description": "[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5325-5334.[code:anson0910/CNN_face_detection]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-14T04:02:45Z",
-            "owner": "anson0910",
-            "repo": "CNN_face_detection",
-            "stars": 255
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【A-Softmax loss】【Angular margin】Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .SphereFace: Deep Hypersphere Embedding for Face Recognition",
+              "description": ".[J] arXiv preprint arXiv:1704.08063.[code:wy1iu/sphereface]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97740046,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-07-24T04:34:05Z",
+                "owner": "wy1iu",
+                "repo": "sphereface",
+                "stars": 1606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【Loss function】【NormFace】Wang F, Xiang X, Cheng J, et al. Normface: l 2 hypersphere embedding for face verification",
+              "description": ".[J] arXiv preprint arXiv:1704.06369..[code:happynear/NormFace]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86638407,
+                "language": "Matlab",
+                "last_commit": "2017-12-13T02:15:01Z",
+                "owner": "happynear",
+                "repo": "NormFace",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【CoCo loss v2】Liu Y, Li H, Wang X. Rethinking feature discrimination and polymerization for large-scale recognition",
+              "description": "[J]. arXiv preprint arXiv:1710.00870, 2017.[code:sciencefans/coco_loss)]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82893236,
+                "language": "Matlab",
+                "last_commit": "2017-12-11T21:11:41Z",
+                "owner": "liuyuisanai",
+                "repo": "coco_loss",
+                "stars": 173
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
+              "description": ".[J] arXiv preprint arXiv:1801.07698.[code:deepinsight/insightface]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102057483,
+                "language": "Python",
+                "last_commit": "2026-07-27T03:22:16Z",
+                "owner": "deepinsight",
+                "repo": "insightface",
+                "stars": 29524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【Angular margin】Wang F, Cheng J, Liu W, et al. Additive margin softmax for face verification",
+              "description": ".[J] arXiv preprint arXiv:1801.05599.[code:happynear/AMSoftmax]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115779861,
+                "language": "Matlab",
+                "last_commit": "2018-08-03T02:13:10Z",
+                "owner": "happynear",
+                "repo": "AMSoftmax",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices",
+              "description": "[J]. arXiv preprint arXiv:1804.07573, 2018.[code:sirius-ai/MobileFaceNet_TF; github_search]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133372977,
+                "language": "Python",
+                "last_commit": "2023-07-12T05:14:21Z",
+                "owner": "sirius-ai",
+                "repo": "MobileFaceNet_TF",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "【CosFace】【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .CosFace: Large Margin Cosine Loss for Deep Face Recognition",
+              "description": ".[J] arXiv preprint arXiv:1801.09414.[code:yule-li/CosFace; MuggleWang/CosFace_pytorch; YirongMao/softmax_variants; jimeffry/face-detect-recognize; thiago1080/CosFace; zhangzhemin/CosFace-easyunderstand]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124762710,
+                "language": "Python",
+                "last_commit": "2018-09-26T13:18:16Z",
+                "owner": "yule-li",
+                "repo": "CosFace",
+                "stars": 294
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018"
         }
       ],
-      "title": "2015"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【MTCNN】Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks",
-          "description": ".[J] arXiv preprint arXiv:1604.02878.[code;kpzhang93/MTCNN_face_detection_alignment]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2022-10-11T07:35:47Z",
-            "owner": "kpzhang93",
-            "repo": "MTCNN_face_detection_alignment",
-            "stars": 2862
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【HR】Peiyun Hu, Deva Ramanan .Finding Tiny Faces",
-          "description": ".[J] arXiv preprint arXiv:1612.04402.[code: peiyunh/tiny]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-03-21T02:04:30Z",
-            "owner": "peiyunh",
-            "repo": "tiny",
-            "stars": 1143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yunzhu Li, Benyuan Sun, Tianfu Wu, Yizhou Wang .Face Detection with End-to-End Integration of a ConvNet and a 3D Model",
-          "description": ".[J] arXiv preprint arXiv:1606.00850.[code:tfwu/FaceDetectionConvNet-3D]",
-          "children": []
-        }
-      ],
-      "title": "2016"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【Focal loss】Lin T Y, Goyal P, Girshick R, et al. Focal loss for dense object detection",
-          "description": "[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.[code:facebookresearch/Detectron]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-11-20T09:13:34Z",
-            "owner": "facebookresearch",
-            "repo": "Detectron",
-            "stars": 26363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .SSH: Single Stage Headless Face Detector",
-          "description": ".[J] arXiv preprint arXiv:1708.03979.[code:mahyarnajibi/SSH]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-22T01:51:36Z",
-            "owner": "mahyarnajibi",
-            "repo": "SSH",
-            "stars": 841
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【FaceBoxes】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .FaceBoxes: A CPU Real-time Face Detector with High Accuracy",
-          "description": ".[J] arXiv preprint arXiv:1708.05234.[code:sfzhang15/FaceBoxes;zeusees/FaceBoxes]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-04-16T06:09:34Z",
-            "owner": "sfzhang15",
-            "repo": "FaceBoxes",
-            "stars": 592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【S^3FD】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .S^3FD: Single Shot Scale-invariant Face Detector",
-          "description": ".[J] arXiv preprint arXiv:1708.05237.[code:sfzhang15/SFD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2018-10-17T15:02:16Z",
-            "owner": "sfzhang15",
-            "repo": "SFD",
-            "stars": 522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nataniel Ruiz, James M. Rehg .Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a Docker Container",
-          "description": ".[J] arXiv preprint arXiv:1708.04370.[code:natanielruiz/dockerface]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2020-06-20T10:56:56Z",
-            "owner": "natanielruiz",
-            "repo": "dockerface",
-            "stars": 191
-          }
-        }
-      ],
-      "title": "2017"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【PyramidBox】Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .PyramidBox: A Context-assisted Single Shot Face Detector",
-          "description": ".[J] arXiv preprint arXiv:1803.07737.[code:PaddlePaddle/face_detection]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-15T17:54:36Z",
-            "owner": "PaddlePaddle",
-            "repo": "models",
-            "stars": 6933
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen .Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks",
-          "description": ".[J] arXiv preprint arXiv:1804.06039.[code:Jack-CV/FaceKit]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-05-11T12:29:37Z",
-            "owner": "Rock-100",
-            "repo": "FaceKit",
-            "stars": 1083
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Saurav Jha, Nikhil Agarwal, Suneeta Agarwal .Towards Improved Cartoon Face Detection and Recognition Systems",
-          "description": ".[J] arXiv preprint arXiv:1804.01753.[code url in paper:nagadomi/animeface-2009; kaggle/facial-keypoints-detection]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-07-25T06:58:14Z",
-            "owner": "nagadomi",
-            "repo": "animeface-2009",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis .Two-Stream Neural Networks for Tampered Face Detection",
-          "description": ".[J] arXiv preprint arXiv:1803.11276.[code url in paper:MKLab-ITI/image-forensics; MarekKowalski/FaceSwap]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-06-26T09:35:47Z",
-            "owner": "MKLab-ITI",
-            "repo": "image-forensics",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille .Robust Face Detection via Learning Small Faces on Hard Images",
-          "description": ".[J] arXiv preprint arXiv:1811.11662.[code:bairdzhang/smallhardface]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-08-04T20:42:25Z",
-            "owner": "bairdzhang",
-            "repo": "smallhardface",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa.Face-MagNet: Magnifying Feature Maps to Detect Small Faces",
-          "description": ".[J] arXiv preprint arXiv:1803.05258.[code:po0ya/face-magnet]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-18T13:34:43Z",
-            "owner": "po0ya",
-            "repo": "face-magnet",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【DSFD】Jian Li, Yabiao Wang, Changan Wang, Ying Tai, Jianjun Qian, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang .DSFD: Dual Shot Face Detector",
-          "description": ".[J] arXiv preprint arXiv:1810.10220.[code:TencentYoutuResearch/FaceDetection-DSFD]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-06-11T02:38:35Z",
-            "owner": "TencentYoutuResearch",
-            "repo": "FaceDetection-DSFD",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "2018"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face Alignment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Face recognition && Face Representations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. A discriminative feature learning approach for deep face recognition",
-          "description": "[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515. [code:ydwen/caffe-face; pangyupo/mxnet_center_loss]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-06-04T10:37:07Z",
-            "owner": "ydwen",
-            "repo": "caffe-face",
-            "stars": 1210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. Large-Margin Softmax Loss for Convolutional Neural Networks",
-          "description": "[J]arXiv preprint arXiv:1612.02295..[code:wy1iu/LargeMargin_Softmax_Loss;luoyetx/mx-lsoftmax]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-08-27T01:58:39Z",
-            "owner": "wy1iu",
-            "repo": "LargeMargin_Softmax_Loss",
-            "stars": 353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【Range loss】Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .Range Loss for Deep Face Recognition with Long-tail",
-          "description": ".[J] arXiv preprint arXiv:1611.08976.[code: Charrin/RangeLoss-Caffe]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-08-09T07:12:24Z",
-            "owner": "Charrin",
-            "repo": "RangeLoss-Caffe",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "2016"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【A-Softmax loss】【Angular margin】Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .SphereFace: Deep Hypersphere Embedding for Face Recognition",
-          "description": ".[J] arXiv preprint arXiv:1704.08063.[code:wy1iu/sphereface]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-07-24T04:34:05Z",
-            "owner": "wy1iu",
-            "repo": "sphereface",
-            "stars": 1606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【Loss function】【NormFace】Wang F, Xiang X, Cheng J, et al. Normface: l 2 hypersphere embedding for face verification",
-          "description": ".[J] arXiv preprint arXiv:1704.06369..[code:happynear/NormFace]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2017-12-13T02:15:01Z",
-            "owner": "happynear",
-            "repo": "NormFace",
-            "stars": 366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【CoCo loss v2】Liu Y, Li H, Wang X. Rethinking feature discrimination and polymerization for large-scale recognition",
-          "description": "[J]. arXiv preprint arXiv:1710.00870, 2017.[code:sciencefans/coco_loss)]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2017-12-11T21:11:41Z",
-            "owner": "liuyuisanai",
-            "repo": "coco_loss",
-            "stars": 173
-          }
-        }
-      ],
-      "title": "2017"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
-          "description": ".[J] arXiv preprint arXiv:1801.07698.[code:deepinsight/insightface]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-27T03:22:16Z",
-            "owner": "deepinsight",
-            "repo": "insightface",
-            "stars": 29522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【Angular margin】Wang F, Cheng J, Liu W, et al. Additive margin softmax for face verification",
-          "description": ".[J] arXiv preprint arXiv:1801.05599.[code:happynear/AMSoftmax]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2018-08-03T02:13:10Z",
-            "owner": "happynear",
-            "repo": "AMSoftmax",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices",
-          "description": "[J]. arXiv preprint arXiv:1804.07573, 2018.[code:sirius-ai/MobileFaceNet_TF; github_search]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-12T05:14:21Z",
-            "owner": "sirius-ai",
-            "repo": "MobileFaceNet_TF",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【CosFace】【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .CosFace: Large Margin Cosine Loss for Deep Face Recognition",
-          "description": ".[J] arXiv preprint arXiv:1801.09414.[code:yule-li/CosFace; MuggleWang/CosFace_pytorch; YirongMao/softmax_variants; jimeffry/face-detect-recognize; thiago1080/CosFace; zhangzhemin/CosFace-easyunderstand]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-26T13:18:16Z",
-            "owner": "yule-li",
-            "repo": "CosFace",
-            "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "【Ring loss】Y Zheng, DK Pal, M Savvides.Ring loss: Convex Feature Normalization for Face Recognition",
-          "description": ".[J] arXiv preprint arXiv:1803.00130.[code:Paralysis/ringloss; YirongMao/softmax_variants; haoxintong/Ringloss-Gluon; vsatyakumar/Ring-Loss-Keras]",
-          "children": []
-        }
-      ],
-      "title": "2018"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face(Facial) Attribute && Face(Facial) Analysis && Face Quality && Face Parsing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face Reconstruction && Face 3D"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion && Face Reenactment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face Retrieval"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Face Application"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:30:18.067Z",
+    "last_updated": "2026-08-19T12:10:12.539Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
+    "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
     "enhanced_repository": "enhansome/enhansome-Face_Recognition",
     "enhanced_repository_description": null,
