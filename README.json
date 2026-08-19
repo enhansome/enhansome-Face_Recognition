@@ -395,7 +395,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29524
+                "stars": 29528
               }
             },
             {
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:12.539Z",
+    "last_updated": "2026-08-19T23:31:20.691Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
