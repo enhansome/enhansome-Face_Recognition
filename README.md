@@ -199,13 +199,13 @@ also, some papers and links collected from:
 
 ### 2019
 
+* 【Dataset】Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971) .\[J] arXiv preprint arXiv:1901.08971.<br>\[data:[ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) ⭐ 2,764 | 🐛 96 | 🌐 Python | 📅 2022-12-08]
 * Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramakrishnan .[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://arxiv.org/pdf/1901.01153) .\[J] arXiv preprint arXiv:1901.01153.
 * Yundong Zhang, Xiang Xu, Xiaotao Liu .[Robust and High Performance Face Detector](https://arxiv.org/pdf/1901.02350) .\[J] arXiv preprint arXiv:1901.02350.
 * Shridhar Ravikumar .[Lightweight Markerless Monocular Face Capture with 3D Spatial Priors](https://arxiv.org/pdf/1901.05355) .\[J] arXiv preprint arXiv:1901.05355.
 * Vishwanath A. Sindagi, Vishal M. Patel .[DAFE-FD: Density Aware Feature Enrichment for Face Detection](https://arxiv.org/pdf/1901.05375) .\[J] arXiv preprint arXiv:1901.05375.
 * Shifeng Zhang, Rui Zhu, Xiaobo Wang, Hailin Shi, Tianyu Fu, Shuo Wang, Tao Mei, Stan Z. Li .[Improved Selective Refinement Network for Face Detection](https://arxiv.org/pdf/1901.06651) .\[J] arXiv preprint arXiv:1901.06651.
 * Matteo Ferrara, Annalisa Franco, Davide Maltoni .[Face morphing detection in the presence of printing/scanning and heterogeneous image sources](https://arxiv.org/pdf/1901.08811) .\[J] arXiv preprint arXiv:1901.08811.
-* 【Dataset】Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971) .\[J] arXiv preprint arXiv:1901.08971.<br>\[data:[ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) ⭐ 2,764 | 🐛 96 | 🌐 Python | 📅 2022-12-08]
 * Nguyen Van Quang, Hiromasa Fujihara .[Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559) .\[J] arXiv preprint arXiv:1902.01559.
 * Jianglin Fu, Saeed Ranjbar Alvar, Ivan V. Bajic, Rodney G. Vaughan .[FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/pdf/1902.02777) .\[J] arXiv preprint arXiv:1902.02777.
 * Bindita Chaudhuri, Noranart Vesdapunt, Baoyuan Wang .[Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/pdf/1902.10744) .\[J] arXiv preprint arXiv:1902.10744.
@@ -644,6 +644,7 @@ also, some papers and links collected from:
 
 ### 2015
 
+* 【FaceNet】【Triplet Loss】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .\[J] arXiv preprint arXiv:1503.03832.<br> \[code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet) ⭐ 14,345 | 🐛 553 | 🌐 Python | 📅 2023-07-24]
 * 【WebFace】Wu X, He R, Sun Z. [A lightened cnn for deep face representation](https://pdfs.semanticscholar.org/d4e6/69d5d35fa0ca9f8d9a193c82d4153f5ffc4e.pdf)\[C]//2015 IEEE Conference on IEEE Computer Vision and Pattern Recognition (CVPR). 2015, 4: 5.
 * 【VGGFace】Parkhi O M, Vedaldi A, Zisserman A. [Deep face recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)\[C]//BMVC. 2015, 1(3): 6.
 * Gholamreza Anbarjafari .[Face recognition using color local binary pattern from mutually  independent color channels](https://arxiv.org/pdf/1501.00105) .\[J] arXiv preprint arXiv:1501.00105.
@@ -656,7 +657,6 @@ also, some papers and links collected from:
 * Changxing Ding, Dacheng Tao .[A Comprehensive Survey on Pose-Invariant Face Recognition](https://arxiv.org/pdf/1502.04383) .\[J] arXiv preprint arXiv:1502.04383.
 * Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li .[Graphical Representation for Heterogeneous Face Recognition](https://arxiv.org/pdf/1503.00488) .\[J] arXiv preprint arXiv:1503.00488.
 * Samir F. Hafez, Mazen M. Selim, Hala H. Zayed .[2D Face Recognition System Based on Selected Gabor Filters and Linear  Discriminant Analysis LDA](https://arxiv.org/pdf/1503.03741) .\[J] arXiv preprint arXiv:1503.03741.
-* 【FaceNet】【Triplet Loss】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .\[J] arXiv preprint arXiv:1503.03832.<br> \[code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet) ⭐ 14,346 | 🐛 553 | 🌐 Python | 📅 2023-07-24]
 * Narmada Naik, G.N Rathna .[Robust real time face recognition and tracking on gpu using fusion of  rgb and depth image](https://arxiv.org/pdf/1504.01883) .\[J] arXiv preprint arXiv:1504.01883.
 * Guosheng Hu, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, Timothy Hospedales .[When Face Recognition Meets with Deep Learning: an Evaluation of  Convolutional Neural Networks for Face Recognition](https://arxiv.org/pdf/1504.02351) .\[J] arXiv preprint arXiv:1504.02351.
 * Ognjen Arandjelovic .[Automatic Face Recognition from Video](https://arxiv.org/pdf/1504.05308) .\[J] arXiv preprint arXiv:1504.05308.
@@ -839,7 +839,7 @@ also, some papers and links collected from:
 
 ### 2018
 
-* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,561 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27]
+* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,563 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27]
 * 【Angular margin】Wang F, Cheng J, Liu W, et al. [Additive margin softmax for face verification](https://arxiv.org/pdf/1801.05599.pdf).\[J] arXiv preprint arXiv:1801.05599.<br>\[code:[happynear/AMSoftmax](https://github.com/happynear/AMSoftmax) ⭐ 490 | 🐛 6 | 🌐 Matlab | 📅 2018-08-03]
 * 【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. [MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573)\[J]. arXiv preprint arXiv:1804.07573, 2018.<br>\[code:[sirius-ai/MobileFaceNet\_TF](https://github.com/sirius-ai/MobileFaceNet_TF) ⭐ 482 | 🐛 28 | 🌐 Python | 📅 2023-07-12;    [github\_search](https://github.com/search?p=1\&q=MobileFaceNets\&type=Repositories)]
 * 【CosFace】【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .[CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414) .\[J] arXiv preprint arXiv:1801.09414.<br>\[code:[yule-li/CosFace](https://github.com/yule-li/CosFace) ⭐ 294 | 🐛 19 | 🌐 Python | 📅 2018-09-26;   [MuggleWang/CosFace\_pytorch](https://github.com/MuggleWang/CosFace_pytorch) ⭐ 260 | 🐛 9 | 🌐 Python | 📅 2020-09-12;   [YirongMao/softmax\_variants](https://github.com/YirongMao/softmax_variants) ⭐ 254 | 🐛 5 | 🌐 Python | 📅 2018-07-03;   [jimeffry/face-detect-recognize](https://github.com/jimeffry/face-detect-recognize);   [thiago1080/CosFace](https://github.com/thiago1080/CosFace) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-25;   [zhangzhemin/CosFace-easyunderstand](https://github.com/zhangzhemin/CosFace)]
@@ -1045,6 +1045,8 @@ also, some papers and links collected from:
 
 ### 2020
 
+* Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu.[Partial FC: Training 10 Million Identities on a Single Machine
+  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,563 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27; ]
 * Ali Dabouei, Fariborz Taherkhani, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi .[Boosting Deep Face Recognition via Disentangling Appearance and Geometry](https://arxiv.org/pdf/2001.04559) .\[J] arXiv preprint arXiv:2001.04559
 * Vansh Narula, Zhangyang (Atlas)Wang, Theodora Chaspari .[An adversarial learning framework for preserving users' anonymity in face-based emotion recognition](https://arxiv.org/pdf/2001.06103) .\[J] arXiv preprint arXiv:2001.06103
 * Ning Yuan, Xiao-Jun Wu, He-Feng Yin .[Face Verification via learning the kernel matrix](https://arxiv.org/pdf/2001.07323) .\[J] arXiv preprint arXiv:2001.07323
@@ -1142,8 +1144,6 @@ also, some papers and links collected from:
 * Ha Le, Ioannis A. Kakadiaris .[DBLFace: Domain-Based Labels for NIR-VIS Heterogeneous Face Recognition](https://arxiv.org/pdf/2010.03771) \[J]. arXiv preprint arXiv:2010.03771.
 * Giulia Orrù, Marco Micheletto, Julian Fierrez, Gian Luca Marcialis .[Are Adaptive Face Recognition Systems still Necessary? Experiments on the APE Dataset](https://arxiv.org/pdf/2010.04072) \[J]. arXiv preprint arXiv:2010.04072.
 * Rohith Pudari, Sunil Bhutada, Sai Pavan Mudavath .[Real Time Face Recognition Using Convoluted Neural Networks](https://arxiv.org/pdf/2010.04517) \[J]. arXiv preprint arXiv:2010.04517.
-* Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu.[Partial FC: Training 10 Million Identities on a Single Machine
-  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,561 | 🐛 1,266 | 🌐 Python | 📅 2026-07-27; ]
 * Ihor Protsenko, Taras Lehinevych, Dmytro Voitekh, Ihor Kroosh, Nick Hasty, Anthony Johnson .[Self-attention aggregation network for video face representation and recognition](https://arxiv.org/pdf/2010.05340) \[J]. arXiv preprint arXiv:2010.05340.
 * John J. Howard, Yevgeniy B. Sirotin, Jerry L. Tipton, Arun R. Vemury .[Quantifying the Extent to Which Race and Gender Features Determine Identity in Commercial Face Recognition Algorithms](https://arxiv.org/pdf/2010.07979) \[J]. arXiv preprint arXiv:2010.07979.
 * Cuican Yu, Zihui Zhang, Huibin Li .[Reconstructing A Large Scale 3D Face Dataset for Deep 3D Face Identification](https://arxiv.org/pdf/2010.08391) \[J]. arXiv preprint arXiv:2010.08391.
@@ -1646,11 +1646,11 @@ also, some papers and links collected from:
 
 ### 2017
 
+* 【VRN】Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .\[J] arXiv preprint arXiv:1703.07834.<br>\[code: [AaronJackson/vrn](https://github.com/AaronJackson/vrn) ⭐ 4,516 | 🐛 7 | 🌐 MATLAB | 📅 2022-07-26]
 * 【3D Face Morphable Models "In-the-Wild"】Booth J, Antonakos E, Ploumpis S, et al. [3D face morphable models “in-the-wild”](http://openaccess.thecvf.com/content_cvpr_2017/papers/Booth_3D_Face_Morphable_CVPR_2017_paper.pdf)\[C]//Proceedings of the IEEE Conference on ComputerVision and Pattern Recognition. 2017.
 * Xi Peng, Xiang Yu, Kihyuk Sohn, Dimitris Metaxas, Manmohan Chandraker .[Reconstruction-Based Disentanglement for Pose-invariant Face Recognition](https://arxiv.org/pdf/1702.03041) .\[J] arXiv preprint arXiv:1702.03041.
 * Luo Jiang, Juyong Zhang, Bailin Deng, Hao Li, Ligang Liu .[3D Face Reconstruction with Geometry Details from a Single Image](https://arxiv.org/pdf/1702.05619) .\[J] arXiv preprint arXiv:1702.05619.
 * Guangcan Mai, Kai Cao, Pong C. Yuen, Anil K. Jain .[On the Reconstruction of Deep Face Templates](https://arxiv.org/pdf/1703.00832) .\[J] arXiv preprint arXiv:1703.00832.
-* 【VRN】Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .\[J] arXiv preprint arXiv:1703.07834.<br>\[code: [AaronJackson/vrn](https://github.com/AaronJackson/vrn) ⭐ 4,516 | 🐛 7 | 🌐 MATLAB | 📅 2022-07-26]
 * 【MoFA】Ayush Tewari, Michael Zollhöfer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Pérez, Christian Theobalt .[MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised  Monocular Reconstruction](https://arxiv.org/pdf/1703.10580) .\[J] arXiv preprint arXiv:1703.10580.
 * 【UH-E2FAR】Pengfei Dou, Shishir K. Shah, Ioannis A. Kakadiaris .[End-to-end 3D face reconstruction with deep neural networks](https://arxiv.org/pdf/1704.05020) .\[J] arXiv preprint arXiv:1704.05020.
 * 【3DFaceNet】Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng .[3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing  Photo-realistic Face Images](https://arxiv.org/pdf/1708.00980) .\[J] arXiv preprint arXiv:1708.00980.
@@ -1664,6 +1664,7 @@ also, some papers and links collected from:
 
 ### 2018
 
+* 【COMA】Ranjan A, Bolkart T, Sanyal S, et al. [Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/abs/1807.10267)\[J]. arXiv preprint arXiv:1807.10267, 2018.<br>\[code: [anuragranj/coma](https://github.com/anuragranj/coma) ⭐ 476 | 🐛 20 | 🌐 Python | 📅 2023-03-24]
 * 【Multi-View RNN】Dou P, Kakadiaris I A. [Multi-view 3D face reconstruction with deep recurrent neural networks](http://cbl.uh.edu/pub_files/IJCB-2017-PD.pdf)\[J]. Image and Vision Computing, 2018, 80: 80-91.
 * 【others】Fan Z, Hu X, Chen C, et al. [Dense Semantic and Topological Correspondence of 3D Faces without Landmarks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf)\[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 523-539.
 * Gholamreza Anbarjafari, Rain Eric Haamer, Iiris Lusi, Toomas Tikk, Lembit Valgma .[3D Face Reconstruction with Region Based Best Fit Blending Using Mobile  Phone for Virtual Reality Based Social Media](https://arxiv.org/pdf/1801.01089) .\[J] arXiv preprint arXiv:1801.01089.
@@ -1671,7 +1672,6 @@ also, some papers and links collected from:
 * Zhen-Hua Feng, Patrik Huber, Josef Kittler, Peter Hancock, Xiao-Jun Wu, Qijun Zhao, Paul Koppen, Matthias Rätsch .[Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://arxiv.org/pdf/1803.05536) .\[J] arXiv preprint arXiv:1803.05536.
 * Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou .[Joint 3D Face Reconstruction and Dense Alignment with Position Map  Regression Network](https://arxiv.org/pdf/1803.07835) .\[J] arXiv preprint arXiv:1803.07835.
 * Feng Liu, Ronghang Zhu, Dan Zeng, Qijun Zhao, Xiaoming Liu .[Disentangling Features in 3D Face Shapes for Joint Face Reconstruction  and Recognition](https://arxiv.org/pdf/1803.11366) .\[J] arXiv preprint arXiv:1803.11366.
-* 【COMA】Ranjan A, Bolkart T, Sanyal S, et al. [Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/abs/1807.10267)\[J]. arXiv preprint arXiv:1807.10267, 2018.<br>\[code: [anuragranj/coma](https://github.com/anuragranj/coma) ⭐ 476 | 🐛 20 | 🌐 Python | 📅 2023-03-24]
 * Nikolai Chinaev, Alexander Chigorin, Ivan Laptev .[MobileFace: 3D Face Reconstruction with Efficient CNN Regression](https://arxiv.org/pdf/1809.08809) .\[J] arXiv preprint arXiv:1809.08809.
 * Rufin VanRullen, Leila Reddy .[Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks](https://arxiv.org/pdf/1810.03856) .\[J] arXiv preprint arXiv:1810.03856.
 * Lei Jiang, XiaoJun Wu, Josef Kittler .[Pose Invariant 3D Face Reconstruction](https://arxiv.org/pdf/1811.05295) .\[J] arXiv preprint arXiv:1811.05295.
@@ -2719,4 +2719,4 @@ also, some papers and links collected from:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
