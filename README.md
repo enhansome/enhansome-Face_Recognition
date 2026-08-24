@@ -2,22 +2,22 @@
 
 this collecting the papers (mainly from arxiv.org) about bellow themes:
 
-> * **[Face Detection && Face Segmentation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection--face-segmentation) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Recognition && Face Identification && Face Verification && Face Representation ](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition--face-representations) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face(Facial) Attribute && Face(Facial) Analysis && Face Quality && Face Parsing](https://github.com/ChanChiChoi/awesome-Face_Recognition#facefacial-attribute--facefacial-analysis--face-quality--face-parsing) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Reconstruction && Face 3D](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction--face-3d) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Clustering](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-clustering) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion && Face Reenactment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration--face-de-occlusion--face-reenactment) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09 && Face swapping**;
-> * **[Face Anti-Spoofing && Face Attack && Face Privacy](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing--face-attack--face-privacy) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Model Accleration && Model Compression](https://github.com/ChanChiChoi/awesome-Face_Recognition#model-acceleration--model-compression) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[Others](https://github.com/ChanChiChoi/awesome-Face_Recognition#others) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**;
-> * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets) ⭐ 4,754 | 🐛 10 | 📅 2023-02-09**
+> * **[Face Detection && Face Segmentation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection--face-segmentation) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Recognition && Face Identification && Face Verification && Face Representation ](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition--face-representations) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face(Facial) Attribute && Face(Facial) Analysis && Face Quality && Face Parsing](https://github.com/ChanChiChoi/awesome-Face_Recognition#facefacial-attribute--facefacial-analysis--face-quality--face-parsing) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Reconstruction && Face 3D](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction--face-3d) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Clustering](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-clustering) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion && Face Reenactment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration--face-de-occlusion--face-reenactment) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09 && Face swapping**;
+> * **[Face Anti-Spoofing && Face Attack && Face Privacy](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing--face-attack--face-privacy) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Model Accleration && Model Compression](https://github.com/ChanChiChoi/awesome-Face_Recognition#model-acceleration--model-compression) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[Others](https://github.com/ChanChiChoi/awesome-Face_Recognition#others) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**;
+> * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets) ⭐ 4,755 | 🐛 10 | 📅 2023-02-09**
 
 also, some papers and links collected from:
 
@@ -150,7 +150,7 @@ also, some papers and links collected from:
 
 ### 2018
 
-* 【PyramidBox】Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .[PyramidBox: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737) .\[J] arXiv preprint arXiv:1803.07737.<br>\[code:[PaddlePaddle/face\_detection](https://github.com/PaddlePaddle/models/tree/develop/fluid/face_detection) ⭐ 6,932 | 🐛 870 | 🌐 Python | 📅 2025-01-15]
+* 【PyramidBox】Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .[PyramidBox: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737) .\[J] arXiv preprint arXiv:1803.07737.<br>\[code:[PaddlePaddle/face\_detection](https://github.com/PaddlePaddle/models/tree/develop/fluid/face_detection) ⭐ 6,931 | 🐛 870 | 🌐 Python | 📅 2025-01-15]
 * Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen .[Real-Time Rotation-Invariant Face Detection with Progressive Calibration  Networks](https://arxiv.org/pdf/1804.06039) .\[J] arXiv preprint arXiv:1804.06039.<br>\[code:[Jack-CV/FaceKit](https://github.com/Jack-CV/FaceKit) ⭐ 1,083 | 🐛 29 | 🌐 C++ | 📅 2023-05-11]
 * Saurav Jha, Nikhil Agarwal, Suneeta Agarwal .[Towards Improved Cartoon Face Detection and Recognition Systems](https://arxiv.org/pdf/1804.01753) .\[J] arXiv preprint arXiv:1804.01753.<br>\[code url in paper:[nagadomi/animeface-2009](https://github.com/nagadomi/animeface-2009) ⭐ 327 | 🐛 5 | 🌐 C | 📅 2018-07-25; [kaggle/facial-keypoints-detection](https://www.kaggle.com/c/facial-keypoints-detection)]
 * Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis .[Two-Stream Neural Networks for Tampered Face Detection](https://arxiv.org/pdf/1803.11276) .\[J] arXiv preprint arXiv:1803.11276.<br>\[code url in paper:[MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics) ⭐ 238 | 🐛 0 | 🌐 Java | 📅 2019-06-26; [MarekKowalski/FaceSwap](https://github.com/MarekKowalski/FaceSwap/) ⭐ 759 | 🐛 30 | 🌐 Python | 📅 2023-04-23]
@@ -769,7 +769,7 @@ also, some papers and links collected from:
 
 ### 2017
 
-* 【A-Softmax loss】【Angular margin】Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .[SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063) .\[J] arXiv preprint arXiv:1704.08063.<br>\[code:[wy1iu/sphereface](https://github.com/wy1iu/sphereface) ⭐ 1,605 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2022-07-24]
+* 【A-Softmax loss】【Angular margin】Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .[SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063) .\[J] arXiv preprint arXiv:1704.08063.<br>\[code:[wy1iu/sphereface](https://github.com/wy1iu/sphereface) ⭐ 1,606 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2022-07-24]
 * 【Loss function】【NormFace】Wang F, Xiang X, Cheng J, et al. [Normface: l 2 hypersphere embedding for face verification](https://arxiv.org/pdf/1704.06369.pdf).\[J] arXiv preprint arXiv:1704.06369..<br>\[code:[happynear/NormFace](https://github.com/happynear/NormFace) ⭐ 366 | 🐛 5 | 🌐 Matlab | 📅 2017-12-13]
 * 【CoCo loss v2】Liu Y, Li H, Wang X. [Rethinking feature discrimination and polymerization for large-scale recognition](https://arxiv.org/pdf/1710.00870.pdf)\[J]. arXiv preprint arXiv:1710.00870, 2017.<br>\[code:[sciencefans/coco\_loss)](https://github.com/sciencefans/coco_loss) ⭐ 173 | 🐛 6 | 🌐 Matlab | 📅 2017-12-11]
 * 【Marginal loss】Deng J, Zhou Y, Zafeiriou S. [Marginal loss for deep face recognition](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Deng_Marginal_Loss_for_CVPR_2017_paper.pdf)\[C]//Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPRW), Faces “in-the-wild” Workshop/Challenge. 2017, 4(6).

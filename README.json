@@ -284,7 +284,7 @@
                 "last_commit": "2025-01-15T17:54:36Z",
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6932
+                "stars": 6931
               }
             },
             {
@@ -498,7 +498,7 @@
                 "last_commit": "2022-07-24T04:34:05Z",
                 "owner": "wy1iu",
                 "repo": "sphereface",
-                "stars": 1605
+                "stars": 1606
               }
             },
             {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:59.073Z",
+    "last_updated": "2026-08-24T23:29:45.664Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
