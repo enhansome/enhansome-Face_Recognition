@@ -15,7 +15,7 @@
             "last_commit": "2019-08-27T15:13:39Z",
             "owner": "polarisZhao",
             "repo": "awesome-face",
-            "stars": 917
+            "stars": 916
           }
         },
         {
@@ -424,7 +424,7 @@
                 "last_commit": "2023-07-24T12:43:21Z",
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14344
+                "stars": 14343
               }
             }
           ],
@@ -550,7 +550,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29563
+                "stars": 29568
               }
             },
             {
@@ -617,7 +617,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29563
+                "stars": 29568
               }
             }
           ],
@@ -645,7 +645,7 @@
                 "last_commit": "2022-07-26T00:06:01Z",
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4516
+                "stars": 4517
               }
             }
           ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:01.052Z",
+    "last_updated": "2026-08-25T23:32:48.249Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
