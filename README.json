@@ -217,7 +217,7 @@
                 "last_commit": "2021-08-22T01:51:36Z",
                 "owner": "mahyarnajibi",
                 "repo": "SSH",
-                "stars": 841
+                "stars": 840
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2023-07-24T12:43:21Z",
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14345
+                "stars": 14344
               }
             }
           ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:29:45.664Z",
+    "last_updated": "2026-08-25T05:53:01.052Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",

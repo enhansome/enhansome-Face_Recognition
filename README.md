@@ -119,7 +119,7 @@ also, some papers and links collected from:
 ### 2017
 
 * 【Focal loss】Lin T Y, Goyal P, Girshick R, et al. [Focal loss for dense object detection](https://arxiv.org/abs/1708.02002)\[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.<br>\[code:[facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) ⚠️ Archived]
-* 【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .[SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979) .\[J] arXiv preprint arXiv:1708.03979.<br>\[code:[mahyarnajibi/SSH](https://github.com/mahyarnajibi/SSH) ⭐ 841 | 🐛 37 | 🌐 Python | 📅 2021-08-22]
+* 【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .[SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979) .\[J] arXiv preprint arXiv:1708.03979.<br>\[code:[mahyarnajibi/SSH](https://github.com/mahyarnajibi/SSH) ⭐ 840 | 🐛 37 | 🌐 Python | 📅 2021-08-22]
 * 【FaceBoxes】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234) .\[J] arXiv preprint arXiv:1708.05234.<br>\[code:[sfzhang15/FaceBoxes](https://github.com/sfzhang15/FaceBoxes) ⭐ 593 | 🐛 4 | 🌐 C++ | 📅 2019-04-16;[zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)]
 * 【S^3FD】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[S^3FD: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .\[J] arXiv preprint arXiv:1708.05237.<br>\[code:[sfzhang15/SFD](https://github.com/sfzhang15/SFD) ⭐ 522 | 🐛 2 | 🌐 Matlab | 📅 2018-10-17]
 * Nataniel Ruiz, James M. Rehg .[Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a  Docker Container](https://arxiv.org/pdf/1708.04370) .\[J] arXiv preprint arXiv:1708.04370.<br>\[code:[natanielruiz/dockerface](https://github.com/natanielruiz/dockerface) ⭐ 191 | 🐛 4 | 🌐 Dockerfile | 📅 2020-06-20]
@@ -644,7 +644,7 @@ also, some papers and links collected from:
 
 ### 2015
 
-* 【FaceNet】【Triplet Loss】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .\[J] arXiv preprint arXiv:1503.03832.<br> \[code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet) ⭐ 14,345 | 🐛 553 | 🌐 Python | 📅 2023-07-24]
+* 【FaceNet】【Triplet Loss】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .\[J] arXiv preprint arXiv:1503.03832.<br> \[code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet) ⭐ 14,344 | 🐛 553 | 🌐 Python | 📅 2023-07-24]
 * 【WebFace】Wu X, He R, Sun Z. [A lightened cnn for deep face representation](https://pdfs.semanticscholar.org/d4e6/69d5d35fa0ca9f8d9a193c82d4153f5ffc4e.pdf)\[C]//2015 IEEE Conference on IEEE Computer Vision and Pattern Recognition (CVPR). 2015, 4: 5.
 * 【VGGFace】Parkhi O M, Vedaldi A, Zisserman A. [Deep face recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)\[C]//BMVC. 2015, 1(3): 6.
 * Gholamreza Anbarjafari .[Face recognition using color local binary pattern from mutually  independent color channels](https://arxiv.org/pdf/1501.00105) .\[J] arXiv preprint arXiv:1501.00105.
@@ -2719,4 +2719,4 @@ also, some papers and links collected from:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
