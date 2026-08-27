@@ -550,7 +550,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29580
+                "stars": 29585
               }
             },
             {
@@ -617,7 +617,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29580
+                "stars": 29585
               }
             }
           ],
@@ -680,9 +680,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:28:50.583Z",
-    "original_repository": "ChanChiChoi/awesome-Face_Recognition",
-    "original_repository_id": 156818789,
+    "last_updated": "2026-08-27T11:37:32.442Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156818789,
+      "language": null,
+      "last_commit": "2023-02-09T07:02:58Z",
+      "owner": "ChanChiChoi",
+      "repo": "awesome-Face_Recognition",
+      "stars": 4754
+    },
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
     "enhanced_repository": "enhansome/enhansome-Face_Recognition",
     "enhanced_repository_description": null,
