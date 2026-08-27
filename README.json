@@ -128,7 +128,7 @@
                 "last_commit": "2021-08-31T10:51:17Z",
                 "owner": "guoyilin",
                 "repo": "FaceDetection_CNN",
-                "stars": 328
+                "stars": 327
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2025-01-15T17:54:36Z",
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6931
+                "stars": 6932
               }
             },
             {
@@ -550,7 +550,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29568
+                "stars": 29580
               }
             },
             {
@@ -617,7 +617,7 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29568
+                "stars": 29580
               }
             }
           ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:32:48.249Z",
+    "last_updated": "2026-08-27T04:28:50.583Z",
     "original_repository": "ChanChiChoi/awesome-Face_Recognition",
     "original_repository_id": 156818789,
     "original_repository_sha": "f88f5982e1edcc7d7d3fb2045290a95f55a97b0d",
