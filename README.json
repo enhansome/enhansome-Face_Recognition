@@ -16,7 +16,8 @@
             "owner": "polarisZhao",
             "repo": "awesome-face",
             "stars": 916
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ShownX",
             "repo": "FacePaperCollection",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "L706077",
             "repo": "DNN-Face-Recognition-Papers",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "shaoxiaohu",
             "repo": "CVPR2016",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "zhanglaplace",
             "repo": "PaperPaper",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "HansonSun",
             "repo": "FaceRecognition-Papers",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "gdshen",
             "repo": "paper_notes",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:52:18.924Z"
         }
       ],
       "title": "Overview"
@@ -129,7 +136,8 @@
                 "owner": "guoyilin",
                 "repo": "FaceDetection_CNN",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "anson0910",
                 "repo": "CNN_face_detection",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -166,7 +175,8 @@
                 "owner": "kpzhang93",
                 "repo": "MTCNN_face_detection_alignment",
                 "stars": 2862
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "peiyunh",
                 "repo": "tiny",
                 "stars": 1143
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -202,8 +213,9 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26358
-              }
+                "stars": 26359
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "mahyarnajibi",
                 "repo": "SSH",
                 "stars": 840
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "sfzhang15",
                 "repo": "FaceBoxes",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "sfzhang15",
                 "repo": "SFD",
                 "stars": 522
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "natanielruiz",
                 "repo": "dockerface",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -285,7 +301,8 @@
                 "owner": "PaddlePaddle",
                 "repo": "models",
                 "stars": 6932
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "Rock-100",
                 "repo": "FaceKit",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "nagadomi",
                 "repo": "animeface-2009",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -330,7 +349,8 @@
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -345,7 +365,8 @@
                 "owner": "bairdzhang",
                 "repo": "smallhardface",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "po0ya",
                 "repo": "face-magnet",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "TencentYoutuResearch",
                 "repo": "FaceDetection-DSFD",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -396,8 +419,9 @@
                 "last_commit": "2022-12-08T01:43:11Z",
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2764
-              }
+                "stars": 2765
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -425,7 +449,8 @@
                 "owner": "davidsandberg",
                 "repo": "facenet",
                 "stars": 14343
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -447,7 +472,8 @@
                 "owner": "ydwen",
                 "repo": "caffe-face",
                 "stars": 1210
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -462,7 +488,8 @@
                 "owner": "wy1iu",
                 "repo": "LargeMargin_Softmax_Loss",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -477,7 +504,8 @@
                 "owner": "Charrin",
                 "repo": "RangeLoss-Caffe",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -499,7 +527,8 @@
                 "owner": "wy1iu",
                 "repo": "sphereface",
                 "stars": 1606
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -514,7 +543,8 @@
                 "owner": "happynear",
                 "repo": "NormFace",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -529,7 +559,8 @@
                 "owner": "liuyuisanai",
                 "repo": "coco_loss",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -550,8 +581,9 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29585
-              }
+                "stars": 29592
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -566,7 +598,8 @@
                 "owner": "happynear",
                 "repo": "AMSoftmax",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -581,7 +614,8 @@
                 "owner": "sirius-ai",
                 "repo": "MobileFaceNet_TF",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             },
             {
               "node_type": "item",
@@ -596,7 +630,8 @@
                 "owner": "yule-li",
                 "repo": "CosFace",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -617,8 +652,9 @@
                 "last_commit": "2026-07-27T03:22:16Z",
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29585
-              }
+                "stars": 29592
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -646,7 +682,8 @@
                 "owner": "AaronJackson",
                 "repo": "vrn",
                 "stars": 4517
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -668,7 +705,8 @@
                 "owner": "anuragranj",
                 "repo": "coma",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T06:52:18.924Z"
             }
           ],
           "description": null,
@@ -680,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:32.442Z",
+    "last_updated": "2026-08-28T06:52:18.924Z",
     "original_repository_info": {
       "archived": false,
       "id": 156818789,
