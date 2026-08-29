@@ -839,7 +839,7 @@ also, some papers and links collected from:
 
 ### 2018
 
-* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,592 | 🐛 1,267 | 🌐 Python | 📅 2026-07-27]
+* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,594 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27]
 * 【Angular margin】Wang F, Cheng J, Liu W, et al. [Additive margin softmax for face verification](https://arxiv.org/pdf/1801.05599.pdf).\[J] arXiv preprint arXiv:1801.05599.<br>\[code:[happynear/AMSoftmax](https://github.com/happynear/AMSoftmax) ⭐ 490 | 🐛 6 | 🌐 Matlab | 📅 2018-08-03]
 * 【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. [MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573)\[J]. arXiv preprint arXiv:1804.07573, 2018.<br>\[code:[sirius-ai/MobileFaceNet\_TF](https://github.com/sirius-ai/MobileFaceNet_TF) ⭐ 482 | 🐛 28 | 🌐 Python | 📅 2023-07-12;    [github\_search](https://github.com/search?p=1\&q=MobileFaceNets\&type=Repositories)]
 * 【CosFace】【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .[CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414) .\[J] arXiv preprint arXiv:1801.09414.<br>\[code:[yule-li/CosFace](https://github.com/yule-li/CosFace) ⭐ 294 | 🐛 19 | 🌐 Python | 📅 2018-09-26;   [MuggleWang/CosFace\_pytorch](https://github.com/MuggleWang/CosFace_pytorch) ⭐ 260 | 🐛 9 | 🌐 Python | 📅 2020-09-12;   [YirongMao/softmax\_variants](https://github.com/YirongMao/softmax_variants) ⭐ 254 | 🐛 5 | 🌐 Python | 📅 2018-07-03;   [jimeffry/face-detect-recognize](https://github.com/jimeffry/face-detect-recognize);   [thiago1080/CosFace](https://github.com/thiago1080/CosFace) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-25;   [zhangzhemin/CosFace-easyunderstand](https://github.com/zhangzhemin/CosFace)]
@@ -1046,7 +1046,7 @@ also, some papers and links collected from:
 ### 2020
 
 * Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu.[Partial FC: Training 10 Million Identities on a Single Machine
-  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,592 | 🐛 1,267 | 🌐 Python | 📅 2026-07-27; ]
+  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,594 | 🐛 1,269 | 🌐 Python | 📅 2026-07-27; ]
 * Ali Dabouei, Fariborz Taherkhani, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi .[Boosting Deep Face Recognition via Disentangling Appearance and Geometry](https://arxiv.org/pdf/2001.04559) .\[J] arXiv preprint arXiv:2001.04559
 * Vansh Narula, Zhangyang (Atlas)Wang, Theodora Chaspari .[An adversarial learning framework for preserving users' anonymity in face-based emotion recognition](https://arxiv.org/pdf/2001.06103) .\[J] arXiv preprint arXiv:2001.06103
 * Ning Yuan, Xiao-Jun Wu, He-Feng Yin .[Face Verification via learning the kernel matrix](https://arxiv.org/pdf/2001.07323) .\[J] arXiv preprint arXiv:2001.07323
@@ -1646,7 +1646,7 @@ also, some papers and links collected from:
 
 ### 2017
 
-* 【VRN】Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .\[J] arXiv preprint arXiv:1703.07834.<br>\[code: [AaronJackson/vrn](https://github.com/AaronJackson/vrn) ⭐ 4,517 | 🐛 7 | 🌐 MATLAB | 📅 2022-07-26]
+* 【VRN】Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .\[J] arXiv preprint arXiv:1703.07834.<br>\[code: [AaronJackson/vrn](https://github.com/AaronJackson/vrn) ⭐ 4,516 | 🐛 7 | 🌐 MATLAB | 📅 2022-07-26]
 * 【3D Face Morphable Models "In-the-Wild"】Booth J, Antonakos E, Ploumpis S, et al. [3D face morphable models “in-the-wild”](http://openaccess.thecvf.com/content_cvpr_2017/papers/Booth_3D_Face_Morphable_CVPR_2017_paper.pdf)\[C]//Proceedings of the IEEE Conference on ComputerVision and Pattern Recognition. 2017.
 * Xi Peng, Xiang Yu, Kihyuk Sohn, Dimitris Metaxas, Manmohan Chandraker .[Reconstruction-Based Disentanglement for Pose-invariant Face Recognition](https://arxiv.org/pdf/1702.03041) .\[J] arXiv preprint arXiv:1702.03041.
 * Luo Jiang, Juyong Zhang, Bailin Deng, Hao Li, Ligang Liu .[3D Face Reconstruction with Geometry Details from a Single Image](https://arxiv.org/pdf/1702.05619) .\[J] arXiv preprint arXiv:1702.05619.
@@ -2719,4 +2719,4 @@ also, some papers and links collected from:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
