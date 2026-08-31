@@ -832,7 +832,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29598,
+                "stars": 29604,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29598,
+                "stars": 29604,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4517,
+                "stars": 4516,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:12:35.862Z",
+    "last_updated": "2026-08-31T01:20:47.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
