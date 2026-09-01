@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26358,
+                "stars": 26357,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2765,
+                "stars": 2768,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14343,
+                "stars": 14347,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29604,
+                "stars": 29612,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29604,
+                "stars": 29612,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:20:47.945Z",
+    "last_updated": "2026-09-01T01:46:29.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
