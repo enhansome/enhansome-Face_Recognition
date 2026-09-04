@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2769,
+                "stars": 2770,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -748,7 +748,7 @@
                 "open_issues": 84,
                 "owner": "wy1iu",
                 "repo": "sphereface",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": [
                   "angular-softmax",
                   "caffe",
@@ -828,11 +828,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-27T03:22:16Z",
-                "open_issues": 1269,
+                "last_commit": "2026-09-03T12:19:10Z",
+                "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29627,
+                "stars": 29635,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -945,11 +945,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-27T03:22:16Z",
-                "open_issues": 1269,
+                "last_commit": "2026-09-03T12:19:10Z",
+                "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29627,
+                "stars": 29635,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:04:40.709Z",
+    "last_updated": "2026-09-04T00:55:05.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
