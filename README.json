@@ -424,10 +424,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-01-15T17:54:36Z",
-                "open_issues": 870,
+                "open_issues": 869,
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6929,
+                "stars": 6930,
                 "topics": [
                   "computer-vision",
                   "cv",
@@ -832,7 +832,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29723,
+                "stars": 29737,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29723,
+                "stars": 29737,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1030,7 +1030,7 @@
                 "open_issues": 20,
                 "owner": "anuragranj",
                 "repo": "coma",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:56:44.384Z",
+    "last_updated": "2026-09-15T01:22:06.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1057,7 +1057,7 @@
       "open_issues": 10,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4758,
+      "stars": 4759,
       "topics": [
         "face-alignment",
         "face-detection",
