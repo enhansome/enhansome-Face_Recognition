@@ -247,7 +247,7 @@
                 "open_issues": 48,
                 "owner": "kpzhang93",
                 "repo": "MTCNN_face_detection_alignment",
-                "stars": 2863,
+                "stars": 2865,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -323,7 +323,7 @@
                 "open_issues": 37,
                 "owner": "mahyarnajibi",
                 "repo": "SSH",
-                "stars": 842,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2777,
+                "stars": 2776,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14354,
+                "stars": 14353,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29848,
+                "stars": 29857,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -864,7 +864,7 @@
                 "open_issues": 6,
                 "owner": "happynear",
                 "repo": "AMSoftmax",
-                "stars": 490,
+                "stars": 489,
                 "topics": [
                   "deep-learning",
                   "face-recognition",
@@ -949,7 +949,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29848,
+                "stars": 29857,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4517,
+                "stars": 4518,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:32:50.032Z",
+    "last_updated": "2026-09-29T02:32:57.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1057,7 +1057,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4760,
+      "stars": 4759,
       "topics": [
         "face-alignment",
         "face-detection",
