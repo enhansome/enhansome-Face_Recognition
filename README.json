@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "[1] polarisZhao/awesome-face",
-          "description": null,
+          "description": "polarisZhao/awesome-face",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "[3] ShownX/FacePaperCollection",
-          "description": null,
+          "description": "ShownX/FacePaperCollection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "[2] L706077/DNN-Face-Recognition-Papers",
-          "description": null,
+          "description": "L706077/DNN-Face-Recognition-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -85,7 +85,7 @@
         {
           "node_type": "item",
           "title": "[5] shaoxiaohu/CVPR2016",
-          "description": null,
+          "description": "shaoxiaohu/CVPR2016",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
         {
           "node_type": "item",
           "title": "[6] zhanglaplace/PaperPaper",
-          "description": null,
+          "description": "zhanglaplace/PaperPaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "[4] HansonSun/FaceRecognition-Papers",
-          "description": null,
+          "description": "HansonSun/FaceRecognition-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -832,7 +832,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29884,
+                "stars": 29885,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1269,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29884,
+                "stars": 29885,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:51:57.087Z",
+    "last_updated": "2026-10-03T04:30:08.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
