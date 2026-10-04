@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26351,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -427,7 +427,7 @@
                 "open_issues": 869,
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6932,
+                "stars": 6931,
                 "topics": [
                   "computer-vision",
                   "cv",
@@ -828,11 +828,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T11:36:18Z",
-                "open_issues": 1269,
+                "last_commit": "2026-10-03T15:38:32Z",
+                "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29885,
+                "stars": 29889,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -945,11 +945,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T11:36:18Z",
-                "open_issues": 1269,
+                "last_commit": "2026-10-03T15:38:32Z",
+                "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29885,
+                "stars": 29889,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:08.792Z",
+    "last_updated": "2026-10-04T02:31:05.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
