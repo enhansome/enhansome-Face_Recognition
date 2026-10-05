@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2778,
+                "stars": 2779,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -828,11 +828,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-03T15:38:32Z",
+                "last_commit": "2026-10-04T12:46:41Z",
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29889,
+                "stars": 29895,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -945,11 +945,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-03T15:38:32Z",
+                "last_commit": "2026-10-04T12:46:41Z",
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29889,
+                "stars": 29895,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:31:05.860Z",
+    "last_updated": "2026-10-05T01:49:18.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1057,7 +1057,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4758,
+      "stars": 4759,
       "topics": [
         "face-alignment",
         "face-detection",
