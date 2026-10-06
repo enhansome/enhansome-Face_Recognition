@@ -832,7 +832,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29896,
+                "stars": 29902,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29896,
+                "stars": 29902,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1042,10 +1042,103 @@
         }
       ],
       "title": "Face Reconstruction && Face 3D"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chen J, He T, Zhuo W, et al. TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing",
+          "description": "[J]. arXiv preprint arXiv:2203.10489, 2022.[code:JierunChen/TVConv]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2022] TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing",
+            "homepage": null,
+            "id": 449983364,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-06-24T11:12:33Z",
+            "open_issues": 4,
+            "owner": "JierunChen",
+            "repo": "TVConv",
+            "stars": 49,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:18:51.447Z"
+        }
+      ],
+      "title": "Model Acceleration && Model Compression"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "seetaface/SeetaFaceEngine",
+          "description": "seetaface/SeetaFaceEngine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 68132933,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2020-04-04T10:57:01Z",
+            "open_issues": 123,
+            "owner": "seetaface",
+            "repo": "SeetaFaceEngine",
+            "stars": 4638,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:18:51.447Z"
+        }
+      ],
+      "title": "Piplines"
+    },
+    {
+      "description": "2D face recognitionVideo face recognition3D face recognitionAnti-spoofingcross age and cross poseFace DetectionFace AttributesOthers",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IMDB-Face",
+              "description": "The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. Download 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A new large-scale noise-controlled face recognition dataset.",
+                "homepage": null,
+                "id": 141092408,
+                "language": null,
+                "license": null,
+                "last_commit": "2018-09-09T14:30:34Z",
+                "open_issues": 15,
+                "owner": "fwang91",
+                "repo": "IMDb-Face",
+                "stars": 440,
+                "topics": [
+                  "dataset",
+                  "eccv-2018",
+                  "face-recognition",
+                  "imdb-face"
+                ]
+              },
+              "first_seen": "2026-10-06T10:18:51.447Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2D face recognition"
+        }
+      ],
+      "title": "DataSets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:53:02.490Z",
+    "last_updated": "2026-10-06T10:18:51.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",

@@ -839,7 +839,7 @@ also, some papers and links collected from:
 
 ### 2018
 
-* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,896 | 🐛 1,270 | 🌐 Python | 📅 2026-10-04]
+* 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .\[J] arXiv preprint arXiv:1801.07698.<br>\[code:[deepinsight/insightface](https://github.com/deepinsight/insightface) ⭐ 29,902 | 🐛 1,270 | 🌐 Python | 📅 2026-10-04]
 * 【Angular margin】Wang F, Cheng J, Liu W, et al. [Additive margin softmax for face verification](https://arxiv.org/pdf/1801.05599.pdf).\[J] arXiv preprint arXiv:1801.05599.<br>\[code:[happynear/AMSoftmax](https://github.com/happynear/AMSoftmax) ⭐ 489 | 🐛 6 | 🌐 Matlab | 📅 2018-08-03]
 * 【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. [MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573)\[J]. arXiv preprint arXiv:1804.07573, 2018.<br>\[code:[sirius-ai/MobileFaceNet\_TF](https://github.com/sirius-ai/MobileFaceNet_TF) ⭐ 482 | 🐛 28 | 🌐 Python | 📅 2023-07-12;    [github\_search](https://github.com/search?p=1\&q=MobileFaceNets\&type=Repositories)]
 * 【CosFace】【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .[CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414) .\[J] arXiv preprint arXiv:1801.09414.<br>\[code:[yule-li/CosFace](https://github.com/yule-li/CosFace) ⭐ 295 | 🐛 19 | 🌐 Python | 📅 2018-09-26;   [MuggleWang/CosFace\_pytorch](https://github.com/MuggleWang/CosFace_pytorch) ⭐ 260 | 🐛 9 | 🌐 Python | 📅 2020-09-12;   [YirongMao/softmax\_variants](https://github.com/YirongMao/softmax_variants) ⭐ 254 | 🐛 5 | 🌐 Python | 📅 2018-07-03;   [jimeffry/face-detect-recognize](https://github.com/jimeffry/face-detect-recognize);   [thiago1080/CosFace](https://github.com/thiago1080/CosFace) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-25;   [zhangzhemin/CosFace-easyunderstand](https://github.com/zhangzhemin/CosFace)]
@@ -1046,7 +1046,7 @@ also, some papers and links collected from:
 ### 2020
 
 * Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu.[Partial FC: Training 10 Million Identities on a Single Machine
-  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,896 | 🐛 1,270 | 🌐 Python | 📅 2026-10-04; ]
+  ](https://arxiv.org/abs/2010.05222)\[J]. arXiv preprint arXiv:2010.05222.<br>\[code:[deepinsight/insightface/recognition/partial\_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc) ⭐ 29,902 | 🐛 1,270 | 🌐 Python | 📅 2026-10-04; ]
 * Ali Dabouei, Fariborz Taherkhani, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi .[Boosting Deep Face Recognition via Disentangling Appearance and Geometry](https://arxiv.org/pdf/2001.04559) .\[J] arXiv preprint arXiv:2001.04559
 * Vansh Narula, Zhangyang (Atlas)Wang, Theodora Chaspari .[An adversarial learning framework for preserving users' anonymity in face-based emotion recognition](https://arxiv.org/pdf/2001.06103) .\[J] arXiv preprint arXiv:2001.06103
 * Ning Yuan, Xiao-Jun Wu, He-Feng Yin .[Face Verification via learning the kernel matrix](https://arxiv.org/pdf/2001.07323) .\[J] arXiv preprint arXiv:2001.07323
@@ -2715,7 +2715,197 @@ also, some papers and links collected from:
 ### 2020
 
 * Mohammad Sabokrou, Masoud Pourreza, Xiaobai Li, Mahmood Fathy, Guoying Zhao .[Deep-HR: Fast Heart Rate Estimation from Face Video Under Realistic Conditions](https://arxiv.org/pdf/2002.04821) .\[J] arXiv preprint arXiv:2002.04821
-* Debayan Deb, Divyansh Aggarwal, Anil K. Jain .\[Child Face Age-Progre
+* Debayan Deb, Divyansh Aggarwal, Anil K. Jain .[Child Face Age-Progression via Deep Feature Aging](https://arxiv.org/pdf/2003.08788) .\[J] arXiv preprint arXiv:2003.08788
+* Nathalie Tkauc, Thao Tran, Kevin Hernandez-Diaz, Fernando Alonso-Fernandez .[Cloud-Based Face and Speech Recognition for Access Control Applications](https://arxiv.org/pdf/2004.11168) \[J]. arXiv preprint arXiv:2004.11168.
+* Suyash Shandilya, Waris Quamer .[How to read faces without looking at them](https://arxiv.org/pdf/2004.12103) \[J]. arXiv preprint arXiv:2004.12103.
+* Puneet Gupta, Brojeshwar Bhowmick, Arpan Pal .[MOMBAT: Heart Rate Monitoring from Face Video using Pulse Modeling and Bayesian Tracking](https://arxiv.org/pdf/2005.04618) \[J]. arXiv preprint arXiv:2005.04618.
+* Soo-Whan Chung, Soyeon Choe, Joon Son Chung, Hong-Goo Kang .[FaceFilter: Audio-visual speech separation using still images](https://arxiv.org/pdf/2005.07074) \[J]. arXiv preprint arXiv:2005.07074.
+* Leyuan Qu, Cornelius Weber, Stefan Wermter .[Multimodal Target Speech Separation with Voice and Face References](https://arxiv.org/pdf/2005.08335) \[J]. arXiv preprint arXiv:2005.08335.
+* Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, David Diaz .[A Comparative Evaluation of Heart Rate Estimation Methods using Face Videos](https://arxiv.org/pdf/2005.11101) \[J]. arXiv preprint arXiv:2005.11101.
+* Jiuwen Zhu, Hu Han, S. Kevin Zhou .[Human Recognition Using Face in Computed Tomography](https://arxiv.org/pdf/2005.14238) \[J]. arXiv preprint arXiv:2005.14238.
+* Harim Lee, Myeung Un Kim, Yeongjun Kim, Hyeonsu Lyu, Hyun Jong Yang .[Privacy-Protection Drone Patrol System based on Face Anonymization](https://arxiv.org/pdf/2005.14390) \[J]. arXiv preprint arXiv:2005.14390.
+* Javier Hernandez-Ortega, Roberto Daza, Aythami Morales, Julian Fierrez, Ruben Tolosana .[Heart Rate Estimation from Face Videos for Student Assessment: Experiments on edBB](https://arxiv.org/pdf/2006.00825) \[J]. arXiv preprint arXiv:2006.00825.
+* Zhe Liu, Xianzhi Wang, Lina Yao, Jake An, Lei Bai, Ee-Peng Lim .[Face to Purchase: Predicting Consumer Choices with Structured Facial and Behavioral Traits Embedding](https://arxiv.org/pdf/2007.06842) \[J]. arXiv preprint arXiv:2007.06842.
+* Amirali Abdolrashidi, Mehdi Minaei, Elham Azimi, Shervin Minaee .[Age and Gender Prediction From Face Images Using Attentional Convolutional Network](https://arxiv.org/pdf/2010.03791) \[J]. arXiv preprint arXiv:2010.03791.
+* Jungseok Hong, Sadman Sakib Enan, Christopher Morse, Junaed Sattar .[Visual Diver Face Recognition for Underwater Human-Robot Interaction](https://arxiv.org/pdf/2011.09556) \[J]. arXiv preprint arXiv:2011.09556.
+* Yusuke Niiro, Marcelo Kallmann .[Assembling a Pipeline for 3D Face Interpolation](https://arxiv.org/pdf/2011.09657) \[J]. arXiv preprint arXiv:2011.09657.
+* Doruk Pancaroglu .[Artist, Style And Year Classification Using Face Recognition And Clustering With Convolutional Neural Networks](https://arxiv.org/pdf/2012.01009) \[J]. arXiv preprint arXiv:2012.01009.
+* Djoanna Marie V. Salac .[PRESENT: An Android-Based Class Attendance Monitoring System Using Face Recognition Technology](https://arxiv.org/pdf/2012.01907) \[J]. arXiv preprint arXiv:2012.01907.
+* Agelos Kratimenos, Georgios Pavlakos, Petros Maragos .[Independent Sign Language Recognition with 3D Body, Hands, and Face Reconstruction](https://arxiv.org/pdf/2012.05698) \[J]. arXiv preprint arXiv:2012.05698.
+
+### 2021
+
+* Zekun Wang, Pengwei Wang, Peter C. Louis, Lee E. Wheless, Yuankai Huo .[WearMask: Fast In-browser Face Mask Detection with Serverless Edge Computing for COVID-19](https://arxiv.org/pdf/2101.00784) \[J]. arXiv preprint arXiv:2101.00784.
+* Moein Razavi, Hamed Alikhani, Vahid Janfaza, Benyamin Sadeghi, Ehsan Alikhani .[An Automatic System to Monitor the Physical Distance and Face Mask Wearing of Construction Workers in COVID-19 Pandemic](https://arxiv.org/pdf/2101.01373) \[J]. arXiv preprint arXiv:2101.01373.
+* Mayank Gupta, Lingjun Chen, Denny Yu, Vaneet Aggarwal .[A Supervised Learning Approach for Robust Health Monitoring using Face Videos](https://arxiv.org/pdf/2102.00322) \[J]. arXiv preprint arXiv:2102.00322.
+* Nael Fasfous, Manoj-Rohit Vemparala, Alexander Frickenstein, Lukas Frickenstein, Walter Stechele .[BinaryCoP: Binary Neural Network-based COVID-19 Face-Mask Wear and Positioning Predictor on Edge Devices](https://arxiv.org/pdf/2102.03456) \[J]. arXiv preprint arXiv:2102.03456.
+* \[Labelling]Andrew Brown, Ernesto Coto, Andrew Zisserman .[Automated Video Labelling: Identifying Faces by Corroborative Evidence](https://arxiv.org/pdf/2102.05645) \[J]. arXiv preprint arXiv:2102.05645.
+* Nagashri Lakshminarayana, Yifang Liu, Karthik Dantu, Venu Govindaraju, Nils Napp .[Active Face Frontalization using Commodity Unmanned Aerial Vehicles](https://arxiv.org/pdf/2102.08542) \[J]. arXiv preprint arXiv:2102.08542.
+* Panpan Zhang, Bin Li, Jinye Peng, Wei Jiang .[Multi-hierarchical Convolutional Network for Efficient Remote Photoplethysmograph Signal and Heart Rate Estimation from Face Video Clips](https://arxiv.org/pdf/2104.02260) \[J]. arXiv preprint arXiv:2104.02260.
+* Dipesh Gyawali, Prashanga Pokharel, Ashutosh Chauhan, Subodh Chandra Shakya .[Age Range Estimation using MTCNN and VGG-Face Model](https://arxiv.org/pdf/2104.08585) \[J]. arXiv preprint arXiv:2104.08585.
+* Zeqi Li, Ruowei Jiang, Parham Aarabi .[Continuous Face Aging via Self-estimated Residual Age Embedding](https://arxiv.org/pdf/2105.00020) \[J]. arXiv preprint arXiv:2105.00020.
+* Yixin Hu, Xingyu Li .[CoverTheFace: face covering monitoring and demonstrating using deep learning and statistical shape analysis](https://arxiv.org/pdf/2108.10430) \[J]. arXiv preprint arXiv:2108.10430.
+* Yiming Qian, Cheikh Brahim El Vaigh, Yuta Nakashima, Benjamin Renoust, Hajime Nagahara, Yutaka Fujioka .[Built Year Prediction from Buddha Face with Heterogeneous Labels](https://arxiv.org/pdf/2109.00812) \[J]. arXiv preprint arXiv:2109.00812.
+* Khawla Mallat, Fabiola Becerra-Riera, Annette Morales-González, Heydi Méndez-Vázquez, Jean-Luc Dugelay .[Does Melania Trump have a body double from the perspective of automatic face recognition?](https://arxiv.org/pdf/2109.02283) \[J]. arXiv preprint arXiv:2109.02283.
+* Samhita Kanaparthy, Manisha Padala, Sankarshan Damle, Sujit Gujar .[Fair Federated Learning for Heterogeneous Face Data](https://arxiv.org/pdf/2109.02351) \[J]. arXiv preprint arXiv:2109.02351.
+* Zhaodong Sun, Juhani Junttila, Mikko Tulppo, Tapio Seppänen, Xiaobai Li .[Non-contact Atrial Fibrillation Detection from Face Videos by Learning Systolic Peaks](https://arxiv.org/pdf/2110.07610) \[J]. arXiv preprint arXiv:2110.07610.
+* Andy Catruna, Adrian Cosma, Ion Emilian Radoi .[From Face to Gait: Weakly-Supervised Learning of Gender Information from Walking Patterns](https://arxiv.org/pdf/2111.00538) \[J]. arXiv preprint arXiv:2111.00538.
+* Preetha S, Sheela S V .[Security Monitoring System Using FaceNet For Wireless Sensor Network](https://arxiv.org/pdf/2112.01305) \[J]. arXiv preprint arXiv:2112.01305.
+* Majid Farzaneh .[ArcFace Knows the Gender, Too!](https://arxiv.org/pdf/2112.10101) \[J]. arXiv preprint arXiv:2112.10101.
+* Haoyi Wang, Victor Sanchez, Chang-Tsun Li .[Improving Face-Based Age Estimation with Attention-Based Dynamic Patch Fusion](https://arxiv.org/pdf/2112.10167) \[J]. arXiv preprint arXiv:2112.10167.
+* Muhammad Saad Saeed, Muhammad Haris Khan, Shah Nawaz, Muhammad Haroon Yousaf, Alessio Del Bue .[Fusion and Orthogonal Projection for Improved Face-Voice Association](https://arxiv.org/pdf/2112.10483) \[J]. arXiv preprint arXiv:2112.10483.
+
+### 2022
+
+* Constantino Álvarez Casado, Miguel Bordallo López .[Face2PPG: An unsupervised pipeline for blood volume pulse extraction from faces](https://arxiv.org/pdf/2202.04101) \[J]. arXiv preprint arXiv:2202.04101.
+* Jialiang Zhuang, Bin Li, Yun Zhang, Xiujuan Zheng .[InsightNet: non-contact blood pressure measuring network based on face video](https://arxiv.org/pdf/2203.03634) \[J]. arXiv preprint arXiv:2203.03634.
+* Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze .[Faces: AI Blitz XIII Solutions](https://arxiv.org/pdf/2204.01081) \[J]. arXiv preprint arXiv:2204.01081.
+* Zhimin Zhang, Zheng Wang, Wei Hu .[Unsupervised Manga Character Re-identification via Face-body and Spatial-temporal Associated Clustering](https://arxiv.org/pdf/2204.04621) \[J]. arXiv preprint arXiv:2204.04621.
+* Anish Khazane, Julien Hoachuck, Krzysztof J. Gorgolewski, Russell A. Poldrack .[DeepDefacer: Automatic Removal of Facial Features via U-Net Image Segmentation](https://arxiv.org/pdf/2205.15536) \[J]. arXiv preprint arXiv:2205.15536.
+* Alexander Waibel, Moritz Behr, Fevziye Irem Eyiokur, Dogucan Yaman, Tuan-Nam Nguyen, Carlos Mullov, Mehmet Arif Demirtas, Alperen Kantarcı, Stefan Constantin, Hazım Kemal Ekenel .[Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos](https://arxiv.org/pdf/2206.04523) \[J]. arXiv preprint arXiv:2206.04523.
+* Xu Yang, Daoyuan Wu, Xiao Yi, Jimmy H. M. Lee, Tan Lee .[iExam: A Novel Online Exam Monitoring and Analysis System Based on Face Detection and Recognition](https://arxiv.org/pdf/2206.13356) \[J]. arXiv preprint arXiv:2206.13356.
+* Youlong Ding, Xueyang Wu, Zhitao Li, Zeheng Wu, Shengqi Tan, Qian Xu, Weike Pan, Qiang Yang .[An Efficient Industrial Federated Learning Framework for AIoT: A Face Recognition Application](https://arxiv.org/pdf/2206.13398) \[J]. arXiv preprint arXiv:2206.13398.
+* Christen Millerdurai, Lotfy Abdel Khaliq, Timon Ulrich .[Show Me Your Face, And I'll Tell You How You Speak](https://arxiv.org/pdf/2206.14009) \[J]. arXiv preprint arXiv:2206.14009.
+* Guillermo Gomez-Trenado (1), Stéphane Lathuilière (2), Pablo Mesejo (1), Óscar Cordón (1) ((1) DaSCI research institute, DECSAI, University of Granada, Granada, Spain, (2) LTCI, Télécom-Paris, Intitute Polytechnique de Paris, Palaiseau, France) .[Custom Structure Preservation in Face Aging](https://arxiv.org/pdf/2207.11025) \[J]. arXiv preprint arXiv:2207.11025.
+* Ankit Jha, Ishita, Pratham G. Shenwai, Ayush Batra, Siddharth Kotian, Piyush Modi .[GesSure- A Robust Face-Authentication enabled Dynamic Gesture Recognition GUI Application](https://arxiv.org/pdf/2207.11033) \[J]. arXiv preprint arXiv:2207.11033.
+* Michael Wan, Xiaofei Huang, Bethany Tunik, Sarah Ostadabbas .[Automatic Assessment of Infant Face and Upper-Body Symmetry as Early Signs of Torticollis](https://arxiv.org/pdf/2210.15022) \[J]. arXiv preprint arXiv:2210.15022.
+* Y. Zarghami, S. Mafeld, A. Conway, B. Taati .[Pain Detection in Masked Faces during Procedural Sedation](https://arxiv.org/pdf/2211.06694) \[J]. arXiv preprint arXiv:2211.06694.
+* Ashwin Rao .[AttenFace: A Real Time Attendance System using Face Recognition](https://arxiv.org/pdf/2211.07582) \[J]. arXiv preprint arXiv:2211.07582.
+* Daniel Arkushin, Bar Cohen, Shmuel Peleg, Ohad Fried .[ReFace: Improving Clothes-Changing Re-Identification With Face Features](https://arxiv.org/pdf/2211.13807) \[J]. arXiv preprint arXiv:2211.13807.
+* Zhongyu Fang, Aoyun He, Qihui Yu, Baopeng Gao, Weiping Ding, Tong Zhang, Lei Ma .[FAF: A novel multimodal emotion recognition approach integrating face, body and text](https://arxiv.org/pdf/2211.15425) \[J]. arXiv preprint arXiv:2211.15425.
+* Andreas Gavros, Foteini Gavrou .[Can a face tell us anything about an NBA prospect? -- A Deep Learning approach](https://arxiv.org/pdf/2212.06804) \[J]. arXiv preprint arXiv:2212.06804.
+
+### 2023
+
+## Model Acceleration && Model Compression
+
+* Chen J, He T, Zhuo W, et al. [TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing](https://arxiv.org/abs/2203.10489)\[J]. arXiv preprint arXiv:2203.10489, 2022.<br>\[code:[JierunChen/TVConv](https://github.com/JierunChen/TVConv) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2022-06-24]
+* Weidong Shi, Guanghui Ren, Yunpeng Chen, Shuicheng Yan .[ProxylessKD: Direct Knowledge Distillation with Inherited Classifier for Face Recognition](https://arxiv.org/pdf/2011.00265) \[J]. arXiv preprint arXiv:2011.00265.
+
+## Others
+
+* Minsu Kim, Joanna Hong, Se Jin Park, Yong Man Ro .[Multi-modality Associative Bridging through Memory: Speech Sound Recollected from Face Video](https://arxiv.org/pdf/2204.01265) \[J]. arXiv preprint arXiv:2204.01265.
+* Jianrong Wang, Zixuan Wang, Xiaosheng Hu, Xuewei Li, Qiang Fang, Li Liu .[Residual-guided Personalized Speech Synthesis based on Face Image](https://arxiv.org/pdf/2204.01672) \[J]. arXiv preprint arXiv:2204.01672.
+* Boqing Zhu, Kele Xu, Changjian Wang, Zheng Qin, Tao Sun, Huaimin Wang, Yuxing Peng .[Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast](https://arxiv.org/pdf/2204.14057) \[J]. arXiv preprint arXiv:2204.14057.
+* Marc Tanti, Shaun Abdilla, Adrian Muscat, Claudia Borg, Reuben A. Farrugia, Albert Gatt .[Face2Text revisited: Improved data set and baseline results](https://arxiv.org/pdf/2205.12342) \[J]. arXiv preprint arXiv:2205.12342.
+* Xinya Ji, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Wayne Wu, Feng Xu, Xun Cao .[EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278) \[J]. arXiv preprint arXiv:2205.15278.
+* Shreya Ghosh, Abhinav Dhall, Munawar Hayat, Jarrod Knibbe .[AV-Gaze: A Study on the Effectiveness of Audio Guided Visual Attention Estimation for Non-Profilic Faces](https://arxiv.org/pdf/2207.03048) \[J]. arXiv preprint arXiv:2207.03048.
+* Renke Wang, Ifeoma Nwogu .[A Probabilistic Model Of Interaction Dynamics for Dyadic Face-to-Face Settings](https://arxiv.org/pdf/2207.04566) \[J]. arXiv preprint arXiv:2207.04566.
+* 【Dataset】Cheng-hsin Wuu, Ningyuan Zheng, Scott Ardisson, Rohan Bali, Danielle Belko, Eric Brockmeyer, Lucas Evans, Timothy Godisart, Hyowon Ha, Alexander Hypes, Taylor Koska, Steven Krenn, Stephen Lombardi, Xiaomin Luo, Kevyn McPhail, Laura Millerschoen, Michal Perdoch, Mark Pitts, Alexander Richard, Jason Saragih, Junko Saragih, Takaaki Shiratori, Tomas Simon, Matt Stewart, Autumn Trimble, Xinshuo Weng, David Whitewolf, Chenglei Wu, Shoou-I Yu, Yaser Sheikh .[Multiface: A Dataset for Neural Face Rendering](https://arxiv.org/pdf/2207.11243) \[J]. arXiv preprint arXiv:2207.11243.
+* Muhammad Saad Saeed, Shah Nawaz, Muhammad Haris Khan, Sajid Javed, Muhammad Haroon Yousaf, Alessio Del Bue .[Learning Branched Fusion and Orthogonal Projection for Face-Voice Association](https://arxiv.org/pdf/2208.10238) \[J]. arXiv preprint arXiv:2208.10238.
+* 【Dataset】Brian DeCann, Kirill Trapeznikov .[Comprehensive Dataset of Face Manipulations for Development and Evaluation of Forensic Tools](https://arxiv.org/pdf/2208.11776) \[J]. arXiv preprint arXiv:2208.11776.
+
+***
+
+## Piplines
+
+* [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) ⭐ 4,638 | 🐛 123 | 🌐 C++ | 📅 2020-04-04
+
+***
+
+## DataSets
+
+* Kai Zhang, Vítor Albiero, Kevin W. Bowyer .[A Method for Curation of Web-Scraped Face Image Datasets](https://arxiv.org/pdf/2004.03074) \[J]. arXiv preprint arXiv:2004.03074.
+* 【Datasets】Philipp Terhörst, Daniel Fährmann, Jan Niklas Kolf, Naser Damer, Florian Kirchbuchner, Arjan Kuijper .[MAAD-Face: A Massively Annotated Attribute Dataset for Face Images](https://arxiv.org/pdf/2012.01030) \[J]. arXiv preprint arXiv:2012.01030.
+* Domenick Poster, Matthew Thielke, Robert Nguyen, Srinivasan Rajaraman, Xing Di, Cedric Nimpa Fondje, Vishal M. Patel, Nathaniel J. Short, Benjamin S. Riggan, Nasser M. Nasrabadi, Shuowen Hu .[A Large-Scale, Time-Synchronized Visible and Thermal Face Dataset](https://arxiv.org/pdf/2101.02637) \[J]. arXiv preprint arXiv:2101.02637.
+* Anselmo Ferreira, Ehsan Nowroozi, Mauro Barni .[VIPPrint: A Large Scale Dataset of Printed and Scanned Images for Synthetic Face Images Detection and Source Linking](https://arxiv.org/pdf/2102.06792) \[J]. arXiv preprint arXiv:2102.06792.
+
+> - **2D face recognition**
+> - **Video face recognition**
+> - **3D face recognition**
+> - **Anti-spoofing**
+> - **cross age and cross pose**
+> - **Face Detection**
+> - **Face Attributes**
+> - **Others**
+
+#### 2D face recognition
+
+| Datasets                   | Description                                                                                                                                                                                            | Links                                                                            | Publish Time |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------ |
+| **CASIA-WebFace**          | **10,575** subjects and **494,414** images                                                                                                                                                             | [Download](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)         | 2014         |
+| **MegaFace**🏅             | **1 million** faces, **690K** identities                                                                                                                                                               | [Download](http://megaface.cs.washington.edu/)                                   | 2016         |
+| **MS-Celeb-1M**🏅          | about **10M** images for **100K** celebrities   Concrete measurement to evaluate the performance of recognizing one million celebrities                                                                | [Download](http://www.msceleb.org)                                               | 2016         |
+| **LFW**🏅                  | **13,000** images of faces collected from the web. Each face has been labeled with the name of the person pictured.  **1680** of the people pictured have two or more distinct photos in the data set. | [Download](http://vis-www.cs.umass.edu/lfw/)                                     | 2007         |
+| **VGG Face2**🏅            | The dataset contains **3.31 million** images of **9131** subjects (identities), with an average of 362.6 images for each subject.                                                                      | [Download](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)                      | 2017         |
+| **UMDFaces Dataset-image** | **367,888 face annotations** for **8,277 subjects.**                                                                                                                                                   | [Download](http://www.umdfaces.io)                                               | 2016         |
+| **Trillion Pairs**🏅       | Train: **MS-Celeb-1M-v1c** &  **Asian-Celeb** Test: **ELFW\&DELFW**                                                                                                                                    | [Download](http://trillionpairs.deepglint.com/overview)                          | 2018         |
+| **FaceScrub**              | It comprises a total of **106,863** face images of male and female **530** celebrities, with about **200 images per person**.                                                                          | [Download](http://vintage.winklerbros.net/facescrub.html)                        | 2014         |
+| **Mut1ny**🏅               | head/face segmentation dataset contains over 17.3k labeled images                                                                                                                                      | [Download](http://www.mut1ny.com/face-headsegmentation-dataset)                  | 2018         |
+| **IMDB-Face**              | The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images.                                                                                   | [Download](https://github.com/fwang91/IMDb-Face) ⭐ 440 \| 🐛 15 \| 📅 2018-09-09 | 2018         |
+
+#### video face recognition
+
+| Datasets                     | Description                                                                                                                                                                                                                     | Links                                                                                              | Publish Time |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------ |
+| **YouTube Face**🏅           | The data set contains **3,425** videos of **1,595** different people.                                                                                                                                                           | [Download](http://www.cs.tau.ac.il/%7Ewolf/ytfaces/)                                               | 2011         |
+| **UMDFaces Dataset-video**🏅 | Over **3.7 million** annotated video frames from over **22,000** videos of **3100 subjects.**                                                                                                                                   | [Download](http://www.umdfaces.io)                                                                 | 2017         |
+| **PaSC**                     | The challenge includes 9,376 still images and 2,802 videos of 293 people.                                                                                                                                                       | [Download](https://www.nist.gov/programs-projects/point-and-shoot-face-recognition-challenge-pasc) | 2013         |
+| **YTC**                      | The data consists of two parts: video clips (1910 sequences of 47 subjects) and initialization data(initial frame face bounding boxes, manually marked).                                                                        | [Download](http://seqamlab.com/youtube-celebrities-face-tracking-and-recognition-dataset/)         | 2008         |
+| **iQIYI-VID**🏅              | The iQIYI-VID dataset **contains 500,000 videos clips of 5,000 celebrities, adding up to 1000 hours**. This dataset supplies multi-modal cues, including face, cloth, voice, gait, and subtitles, for character identification. | [Download](http://challenge.ai.iqiyi.com/detail?raceId=5b1129e42a360316a898ff4f)                   | 2018         |
+
+#### 3D face recognition
+
+| Datasets        | Description                                                                                                  | Links                                                                            | Publish Time |
+| --------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------ |
+| **Bosphorus**🏅 | 105 subjects and 4666 faces 2D & 3D face data                                                                | [Download](http://bosphorus.ee.boun.edu.tr/default.aspx)                         | 2008         |
+| **BD-3DFE**     | Analyzing **Facial Expressions** in **3D** Space                                                             | [Download](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) | 2006         |
+| **ND-2006**     | 422 subjects and 9443 faces 3D Face Recognition                                                              | [Download](https://sites.google.com/a/nd.edu/public-cvrl/data-sets)              | 2006         |
+| **FRGC V2.0**   | 466 subjects and 4007 of 3D Face, Visible Face Images                                                        | [Download](https://sites.google.com/a/nd.edu/public-cvrl/data-sets)              | 2005         |
+| **B3D(AC)^2**   | **1000** high quality, dynamic **3D scans** of faces, recorded while pronouncing a set of English sentences. | [Download](http://www.vision.ee.ethz.ch/datasets/b3dac2.en.html)                 | 2010         |
+
+#### Anti-spoofing
+
+| Datasets          | # of subj. / # of sess. | Links                                                                                                         | Year | Spoof attacks attacks | Publish Time |
+| ----------------- | :---------------------: | ------------------------------------------------------------------------------------------------------------- | ---- | --------------------- | ------------ |
+| **NUAA**          |           15/3          | [Download](http://parnec.nuaa.edu.cn/xtan/data/nuaaimposterdb.html)                                           | 2010 | **Print**             | 2010         |
+| **CASIA-MFSD**    |           50/3          | Download(link failed)                                                                                         | 2012 | **Print, Replay**     | 2012         |
+| **Replay-Attack** |           50/1          | [Download](https://www.idiap.ch/dataset/replayattack)                                                         | 2012 | **Print, 2 Replay**   | 2012         |
+| **MSU-MFSD**      |           35/1          | [Download](https://www.cse.msu.edu/rgroups/biometrics/Publications/Databases/MSUMobileFaceSpoofing/index.htm) | 2015 | **Print, 2 Replay**   | 2015         |
+| **MSU-USSA**      |          1140/1         | [Download](http://biometrics.cse.msu.edu/Publications/Databases/MSU_USSA/)                                    | 2016 | **2 Print, 6 Replay** | 2016         |
+| **Oulu-NPU**      |           55/3          | [Download](https://sites.google.com/site/oulunpudatabase/)                                                    | 2017 | **2 Print, 6 Replay** | 2017         |
+| **Siw**           |          165/4          | [Download](http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html)                   | 2018 | **2 Print, 4 Replay** | 2018         |
+
+#### cross age and cross pose
+
+| Datasets     | Description                                                                                                                                                                         | Links                                                                | Publish Time |
+| ------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------ |
+| **CACD2000** | The dataset contains more than 160,000 images of 2,000 celebrities with **age ranging from 16 to 62**.                                                                              | [Download](http://bcsiriuschen.github.io/CARC/)                      | 2014         |
+| **FGNet**    | The dataset contains more than 1002 images of 82 people with **age ranging from 0 to 69**.                                                                                          | [Download](http://www-prima.inrialpes.fr/FGnet/html/benchmarks.html) | 2000         |
+| **MPRPH**    | The MORPH database contains **55,000** images of more than **13,000** people within the age ranges of **16** to **77**                                                              | [Download](http://www.faceaginggroup.com/morph/)                     | 2016         |
+| **CPLFW**    | we construct a Cross-Pose LFW (CPLFW) which deliberately searches and selects **3,000 positive face pairs** with **pose difference** to add pose variation to intra-class variance. | [Download](http://www.whdeng.cn/cplfw/index.html)                    | 2017         |
+| **CALFW**    | Thereby we construct a Cross-Age LFW (CALFW) which deliberately searches and selects **3,000 positive face pairs** with **age gaps** to add aging process intra-class variance.     | [Download](http://www.whdeng.cn/calfw/index.html)                    | 2017         |
+
+### 📌Face Detection
+
+| Datasets       | Description                                                                                                                                                                                             | Links                                                       | Publish Time |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
+| **FDDB**🏅     | **5171** faces in a set of **2845** images                                                                                                                                                              | [Download](http://vis-www.cs.umass.edu/fddb/index.html)     | 2010         |
+| **Wider-face** | **32,203** images and label **393,703** faces with a high degree of variability in scale, pose and occlusion, organized based on **61** event classes                                                   | [Download](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/) | 2015         |
+| **AFW**        | AFW dataset is built using Flickr images. It has **205** images with **473** labeled faces. For each face, annotations include a rectangular **bounding box**, **6 landmarks** and the **pose angles**. | [Download](http://www.ics.uci.edu/~xzhu/face/)              | 2013         |
+| **MALF**       | MALF is the first face detection dataset that supports fine-gained evaluation. MALF consists of **5,250** images and **11,931** faces.                                                                  | [Download](http://www.cbsr.ia.ac.cn/faceevaluation/)        | 2015         |
+
+### 📌 Face Attributes
+
+| Datasets                             | Description                                                                                                                                                                                                                                                                       | Links                                                                                      | Key features                              | Publish Time |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------- | ------------ |
+| **CelebA**                           | **10,177** number of **identities**,  **202,599** number of **face images**, and  **5 landmark locations**, **40 binary attributes** annotations per image.                                                                                                                       | [Download](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)                               | **attribute & landmark**                  | 2015         |
+| **IMDB-WIKI**                        | 500k+ face images with **age** and **gender** labels                                                                                                                                                                                                                              | [Download](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)                           | **age & gender**                          | 2015         |
+| **Adience**                          | Unfiltered faces for **gender** and **age** classification                                                                                                                                                                                                                        | [Download](http://www.openu.ac.il/home/hassner/Adience/data.html)                          | **age & gender**                          | 2014         |
+| **WFLW**🏅                           | WFLW contains **10000 faces** (7500 for training and 2500 for testing) with **98 fully manual annotated landmarks**.                                                                                                                                                              | [Download](https://wywu.github.io/projects/LAB/WFLW.html)                                  | **landmarks**                             | 2018         |
+| **Caltech10k Web Faces**             | The dataset has 10,524 human faces of various resolutions and in **different settings**                                                                                                                                                                                           | [Download](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Description) | **landmarks**                             | 2005         |
+| **EmotioNet**                        | The EmotioNet database includes**950,000 images** with **annotated AUs**.  A **subset** of the images in the EmotioNet database correspond to **basic and compound emotions.**                                                                                                    | [Download](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html#overview)        | **AU and Emotion**                        | 2017         |
+| **RAF( Real-world Affective Faces)** | **29672** number of **real-world images**,  including **7** classes of basic emotions and **12** classes of compound emotions,  **5 accurate landmark locations**,  **37 automatic landmark locations**, **race, age range** and  **gender** **attributes** annotations per image | [Download](http://www.whdeng.cn/RAF/model1.html)                                           | **Emotions、landmark、race、age and gender** | 2017         |
+
+### 📌 Others：
+
+| Datasets           | Description                                                                                                                                | Links                                                              | Publish Time |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------ |
+| **IJB C/B/A**🏅    | IJB C/B/A is currently running **three challenges** related to  **face detection, verification, identification, and identity clustering.** | [Download](https://www.nist.gov/programs-projects/face-challenges) | 2015         |
+| **MOBIO**          | **bi-modal** (**audio** and **video**) data taken from 152 people.                                                                         | [Download](https://www.idiap.ch/dataset/mobio)                     | 2012         |
+| **BANCA**          | The BANCA database was captured in four European languages in **two modalities** (**face** and **voice**).                                 | [Download](http://www.ee.surrey.ac.uk/CVSSP/banca/)                | 2014         |
+| **3D Mask Attack** | **76500** frames of **17** persons using Kinect RGBD with eye positions (Sebastien Marcel).                                                | [Download](https://www.idiap.ch/dataset/3dmad)                     | 2013         |
+| **WebCaricature**  | **6042** **caricatures** and **5974 photographs** from **252 persons** collected from the web                                              | [Download](https://cs.nju.edu.cn/rl/WebCaricature.htm)             | 2018         |
 
 ***
 
