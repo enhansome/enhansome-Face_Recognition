@@ -482,7 +482,7 @@
                 "open_issues": 5,
                 "owner": "nagadomi",
                 "repo": "animeface-2009",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "face-detector"
                 ]
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2780,
+                "stars": 2781,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -832,7 +832,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29902,
+                "stars": 29905,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29902,
+                "stars": 29905,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:51.447Z",
+    "last_updated": "2026-10-07T02:14:35.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
