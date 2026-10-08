@@ -247,7 +247,7 @@
                 "open_issues": 48,
                 "owner": "kpzhang93",
                 "repo": "MTCNN_face_detection_alignment",
-                "stars": 2864,
+                "stars": 2863,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
-                "stars": 239,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -832,7 +832,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29905,
+                "stars": 29907,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1270,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29905,
+                "stars": 29907,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:14:35.755Z",
+    "last_updated": "2026-10-08T02:38:26.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
