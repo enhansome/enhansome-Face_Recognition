@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "ShownX",
             "repo": "FacePaperCollection",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "face-alignment",
               "face-detection",
@@ -344,7 +344,7 @@
                 "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "FaceBoxes",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14354,
+                "stars": 14356,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1270,
+                "open_issues": 1271,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29913,
+                "stars": 29922,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1270,
+                "open_issues": 1271,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29913,
+                "stars": 29922,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:54:50.533Z",
+    "last_updated": "2026-10-10T02:15:08.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
