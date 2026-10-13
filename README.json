@@ -323,7 +323,7 @@
                 "open_issues": 37,
                 "owner": "mahyarnajibi",
                 "repo": "SSH",
-                "stars": 843,
+                "stars": 844,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -344,7 +344,7 @@
                 "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "FaceBoxes",
-                "stars": 595,
+                "stars": 596,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -365,7 +365,7 @@
                 "open_issues": 2,
                 "owner": "sfzhang15",
                 "repo": "SFD",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "face-detector"
                 ]
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2786,
+                "stars": 2787,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -670,7 +670,7 @@
                 "open_issues": 2,
                 "owner": "ydwen",
                 "repo": "caffe-face",
-                "stars": 1210,
+                "stars": 1211,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -777,7 +777,7 @@
                 "open_issues": 5,
                 "owner": "happynear",
                 "repo": "NormFace",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "acm-mm",
                   "caffe",
@@ -832,7 +832,7 @@
                 "open_issues": 1272,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29939,
+                "stars": 29943,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -864,7 +864,7 @@
                 "open_issues": 6,
                 "owner": "happynear",
                 "repo": "AMSoftmax",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "deep-learning",
                   "face-recognition",
@@ -949,7 +949,7 @@
                 "open_issues": 1272,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29939,
+                "stars": 29943,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:16:00.266Z",
+    "last_updated": "2026-10-13T03:29:32.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4761,
+      "stars": 4762,
       "topics": [
         "face-alignment",
         "face-detection",
