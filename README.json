@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26350,
+                "stars": 26352,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -427,7 +427,7 @@
                 "open_issues": 869,
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6930,
+                "stars": 6931,
                 "topics": [
                   "computer-vision",
                   "cv",
@@ -572,7 +572,7 @@
                 "open_issues": 1,
                 "owner": "TencentYoutuResearch",
                 "repo": "FaceDetection-DSFD",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2787,
+                "stars": 2790,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -748,7 +748,7 @@
                 "open_issues": 84,
                 "owner": "wy1iu",
                 "repo": "sphereface",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": [
                   "angular-softmax",
                   "caffe",
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29943,
+                "stars": 29950,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29943,
+                "stars": 29950,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4519,
+                "stars": 4520,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:29:32.488Z",
+    "last_updated": "2026-10-14T01:47:45.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
