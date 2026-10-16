@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14359,
+                "stars": 14358,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -691,7 +691,7 @@
                 "open_issues": 12,
                 "owner": "wy1iu",
                 "repo": "LargeMargin_Softmax_Loss",
-                "stars": 353,
+                "stars": 352,
                 "topics": [
                   "caffe",
                   "deep-learning",
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1272,
+                "open_issues": 1274,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29968,
+                "stars": 29973,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1272,
+                "open_issues": 1274,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29968,
+                "stars": 29973,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:23:06.633Z",
+    "last_updated": "2026-10-16T01:10:56.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
