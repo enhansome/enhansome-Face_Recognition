@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26350,
+                "stars": 26347,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 97,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -829,7 +829,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1274,
+                "open_issues": 1275,
                 "owner": "deepinsight",
                 "repo": "insightface",
                 "stars": 29987,
@@ -946,7 +946,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1274,
+                "open_issues": 1275,
                 "owner": "deepinsight",
                 "repo": "insightface",
                 "stars": 29987,
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4521,
+                "stars": 4522,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:51:46.531Z",
+    "last_updated": "2026-10-19T01:04:22.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4761,
+      "stars": 4760,
       "topics": [
         "face-alignment",
         "face-detection",
