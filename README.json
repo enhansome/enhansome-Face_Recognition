@@ -459,7 +459,7 @@
                 "open_issues": 29,
                 "owner": "Rock-100",
                 "repo": "FaceKit",
-                "stars": 1082,
+                "stars": 1081,
                 "topics": [
                   "face-detection"
                 ]
@@ -828,11 +828,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1275,
+                "last_commit": "2026-10-19T07:54:01Z",
+                "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29987,
+                "stars": 29999,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -945,11 +945,11 @@
                 "id": 102057483,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-04T12:46:41Z",
-                "open_issues": 1275,
+                "last_commit": "2026-10-19T07:54:01Z",
+                "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29987,
+                "stars": 29999,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:04:22.812Z",
+    "last_updated": "2026-10-20T01:41:39.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4760,
+      "stars": 4761,
       "topics": [
         "face-alignment",
         "face-detection",
