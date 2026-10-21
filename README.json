@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26347,
+                "stars": 26348,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 97,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2792,
+                "stars": 2793,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14358,
+                "stars": 14359,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29999,
+                "stars": 30008,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 29999,
+                "stars": 30008,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:41:39.724Z",
+    "last_updated": "2026-10-21T01:27:16.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
