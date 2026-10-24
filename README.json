@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "MKLab-ITI",
                 "repo": "image-forensics",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -597,10 +597,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2022-12-08T01:43:11Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2793,
+                "stars": 2794,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14359,
+                "stars": 14358,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30028,
+                "stars": 30034,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30028,
+                "stars": 30034,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1089,7 +1089,7 @@
             "open_issues": 123,
             "owner": "seetaface",
             "repo": "SeetaFaceEngine",
-            "stars": 4638,
+            "stars": 4637,
             "topics": []
           },
           "first_seen": "2026-10-06T10:18:51.447Z"
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:24:28.501Z",
+    "last_updated": "2026-10-24T01:28:59.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4761,
+      "stars": 4763,
       "topics": [
         "face-alignment",
         "face-detection",
