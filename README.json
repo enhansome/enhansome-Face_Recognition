@@ -247,7 +247,7 @@
                 "open_issues": 48,
                 "owner": "kpzhang93",
                 "repo": "MTCNN_face_detection_alignment",
-                "stars": 2863,
+                "stars": 2862,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26351,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2795,
+                "stars": 2796,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14359,
+                "stars": 14357,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -670,7 +670,7 @@
                 "open_issues": 2,
                 "owner": "ydwen",
                 "repo": "caffe-face",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -748,7 +748,7 @@
                 "open_issues": 84,
                 "owner": "wy1iu",
                 "repo": "sphereface",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": [
                   "angular-softmax",
                   "caffe",
@@ -777,7 +777,7 @@
                 "open_issues": 5,
                 "owner": "happynear",
                 "repo": "NormFace",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "acm-mm",
                   "caffe",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30048,
+                "stars": 30053,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30048,
+                "stars": 30053,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:05:30.994Z",
+    "last_updated": "2026-10-27T01:58:50.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
