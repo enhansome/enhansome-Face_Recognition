@@ -388,7 +388,7 @@
                 "open_issues": 4,
                 "owner": "natanielruiz",
                 "repo": "dockerface",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14358,
+                "stars": 14360,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30098,
+                "stars": 30101,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30098,
+                "stars": 30101,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1089,7 +1089,7 @@
             "open_issues": 123,
             "owner": "seetaface",
             "repo": "SeetaFaceEngine",
-            "stars": 4636,
+            "stars": 4635,
             "topics": []
           },
           "first_seen": "2026-10-06T10:18:51.447Z"
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:14:25.258Z",
+    "last_updated": "2026-11-01T02:05:47.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
