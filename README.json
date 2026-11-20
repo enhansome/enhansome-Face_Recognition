@@ -247,7 +247,7 @@
                 "open_issues": 48,
                 "owner": "kpzhang93",
                 "repo": "MTCNN_face_detection_alignment",
-                "stars": 2862,
+                "stars": 2859,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26333,
+                "stars": 26334,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -427,7 +427,7 @@
                 "open_issues": 868,
                 "owner": "PaddlePaddle",
                 "repo": "models",
-                "stars": 6934,
+                "stars": 6933,
                 "topics": [
                   "computer-vision",
                   "cv",
@@ -459,7 +459,7 @@
                 "open_issues": 29,
                 "owner": "Rock-100",
                 "repo": "FaceKit",
-                "stars": 1080,
+                "stars": 1079,
                 "topics": [
                   "face-detection"
                 ]
@@ -600,7 +600,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2805,
+                "stars": 2804,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -691,7 +691,7 @@
                 "open_issues": 12,
                 "owner": "wy1iu",
                 "repo": "LargeMargin_Softmax_Loss",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "caffe",
                   "deep-learning",
@@ -748,7 +748,7 @@
                 "open_issues": 84,
                 "owner": "wy1iu",
                 "repo": "sphereface",
-                "stars": 1606,
+                "stars": 1605,
                 "topics": [
                   "angular-softmax",
                   "caffe",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30259,
+                "stars": 30268,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30259,
+                "stars": 30268,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4523,
+                "stars": 4522,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:04:37.151Z",
+    "last_updated": "2026-11-20T03:56:07.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4766,
+      "stars": 4765,
       "topics": [
         "face-alignment",
         "face-detection",
