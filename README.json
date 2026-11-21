@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30268,
+                "stars": 30276,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -891,7 +891,7 @@
                 "open_issues": 28,
                 "owner": "sirius-ai",
                 "repo": "MobileFaceNet_TF",
-                "stars": 480,
+                "stars": 479,
                 "topics": [
                   "mobilefacenet",
                   "recognize-faces",
@@ -949,7 +949,7 @@
                 "open_issues": 1276,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30268,
+                "stars": 30276,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -994,7 +994,7 @@
                 "open_issues": 7,
                 "owner": "AaronJackson",
                 "repo": "vrn",
-                "stars": 4522,
+                "stars": 4521,
                 "topics": [
                   "3d",
                   "computer-vision",
@@ -1089,7 +1089,7 @@
             "open_issues": 123,
             "owner": "seetaface",
             "repo": "SeetaFaceEngine",
-            "stars": 4634,
+            "stars": 4633,
             "topics": []
           },
           "first_seen": "2026-10-06T10:18:51.447Z"
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:56:07.809Z",
+    "last_updated": "2026-11-21T03:53:12.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4765,
+      "stars": 4766,
       "topics": [
         "face-alignment",
         "face-detection",
