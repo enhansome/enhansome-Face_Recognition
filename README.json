@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-19T07:54:01Z",
-                "open_issues": 1276,
+                "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30276,
+                "stars": 30282,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-19T07:54:01Z",
-                "open_issues": 1276,
+                "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30276,
+                "stars": 30282,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:53:12.709Z",
+    "last_updated": "2026-11-22T02:58:44.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
