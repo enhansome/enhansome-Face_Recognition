@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26334,
+                "stars": 26333,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2804,
+                "stars": 2805,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -832,7 +832,7 @@
                 "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30282,
+                "stars": 30286,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30282,
+                "stars": 30286,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:58:44.921Z",
+    "last_updated": "2026-11-23T03:40:09.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4766,
+      "stars": 4767,
       "topics": [
         "face-alignment",
         "face-detection",
