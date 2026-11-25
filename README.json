@@ -832,7 +832,7 @@
                 "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30291,
+                "stars": 30299,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -891,7 +891,7 @@
                 "open_issues": 28,
                 "owner": "sirius-ai",
                 "repo": "MobileFaceNet_TF",
-                "stars": 479,
+                "stars": 480,
                 "topics": [
                   "mobilefacenet",
                   "recognize-faces",
@@ -949,7 +949,7 @@
                 "open_issues": 1277,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30291,
+                "stars": 30299,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:54:05.381Z",
+    "last_updated": "2026-11-25T05:22:01.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4767,
+      "stars": 4768,
       "topics": [
         "face-alignment",
         "face-detection",
