@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14365,
+                "stars": 14366,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -829,10 +829,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-19T07:54:01Z",
-                "open_issues": 1277,
+                "open_issues": 1278,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30307,
+                "stars": 30309,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-19T07:54:01Z",
-                "open_issues": 1277,
+                "open_issues": 1278,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30307,
+                "stars": 30309,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:54:38.984Z",
+    "last_updated": "2026-11-27T04:55:17.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
