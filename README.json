@@ -302,7 +302,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26331,
+                "stars": 26330,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -600,7 +600,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:52:18.924Z"
@@ -634,7 +634,7 @@
                 "open_issues": 553,
                 "owner": "davidsandberg",
                 "repo": "facenet",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -832,7 +832,7 @@
                 "open_issues": 1278,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30309,
+                "stars": 30321,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -949,7 +949,7 @@
                 "open_issues": 1278,
                 "owner": "deepinsight",
                 "repo": "insightface",
-                "stars": 30309,
+                "stars": 30321,
                 "topics": [
                   "age-estimation",
                   "arcface",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:55:17.447Z",
+    "last_updated": "2026-11-28T04:40:38.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
@@ -1150,7 +1150,7 @@
       "open_issues": 11,
       "owner": "ChanChiChoi",
       "repo": "awesome-Face_Recognition",
-      "stars": 4768,
+      "stars": 4769,
       "topics": [
         "face-alignment",
         "face-detection",
